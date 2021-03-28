@@ -1,0 +1,41 @@
+data needed for each senate election
+- the start year of that race (for 2020 -> 2021)
+- number of special elections
+- number of regular elections
+
+for regular elections
+- state
+- senator : includes state, party, and electoral history
+- results (incumbent won/challenger won)
+    - include voter percentage?
+
+
+path:
+document.querySelector("#mw-content-text > div.mw-parser-output > table:nth-child(33)")
+
+/html/body/div[3]/div[3]/div[5]/div[1]/table[9] - full path
+
+#mw-content-text > div.mw-parser-output > table:nth-child(33) - selector
+
+then
+
+<tbody>
+
+<table class="wikitable sortable jquery-tablesorter">
+
+<tr>
+<th><a href="#Alabama">Alabama</a>
+</th>
+<td data-sort-value="Jones, Doug"><a href="/wiki/Doug_Jones_(politician)" title="Doug Jones (politician)">Doug Jones</a>
+</td>
+<td style="background-color:#B0CEFF">Democratic
+</td>
+<td data-sort-value="2017"><a href="/wiki/2017_United_States_Senate_special_election_in_Alabama" title="2017 United States Senate special election in Alabama">2017 <span style="font-size:85%;">(Special)</span></a>
+</td>
+<td style="background-color:#FFB6B6">Incumbent lost re-election.<br>New senator <a href="/wiki/2020_United_States_Senate_election_in_Alabama" title="2020 United States Senate election in Alabama">elected</a>.<br><b>Republican gain</b>.
+</td>
+<td nowrap=""><div class="plainlist">
+<ul><li><b><img alt="Green tick" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/13px-Green_check.svg.png" decoding="async" width="13" height="13" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/20px-Green_check.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Green_check.svg/26px-Green_check.svg.png 2x" data-file-width="600" data-file-height="600"><span style="display:none">Y</span> <a href="/wiki/Tommy_Tuberville" title="Tommy Tuberville">Tommy Tuberville</a></b> (Republican) 60.2%</li>
+<li><a href="/wiki/Doug_Jones_(politician)" title="Doug Jones (politician)">Doug Jones</a> (Democratic) 39.8%</li></ul>
+</div>
+</td></tr>

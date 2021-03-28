@@ -1,0 +1,571 @@
+{
+  "year": "2020",
+  "elections": [
+    {
+      "state": "Alabama",
+      "incumbent": {
+        "name": "Doug Jones",
+        "elect_hist": [
+          "2017 (Special)"
+        ]
+      },
+      "result": "Incumbent lost re-election.New senator elected.Republican gain.",
+      "candidates": [
+        "Y Tommy Tuberville (Republican) 60.2%",
+        "Doug Jones (Democratic) 39.8%"
+      ]
+    },
+    {
+      "state": "Alaska",
+      "incumbent": {
+        "name": "Dan Sullivan",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Dan Sullivan (Republican) 53.9%",
+        "Al Gross (Independent) 41.2%",
+        "John Wayne Howe (Alaskan Independence) 4.7%"
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "incumbent": {
+        "name": "Tom Cotton",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Tom Cotton (Republican) 66.5%",
+        "Ricky Dale Harrington, Jr. (Libertarian) 33.5%"
+      ]
+    },
+    {
+      "state": "Colorado",
+      "incumbent": {
+        "name": "Cory Gardner",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent lost re-election.New senator elected.Democratic gain.",
+      "candidates": [
+        "Y John Hickenlooper (Democratic) 53.5%",
+        "Cory Gardner (Republican) 44.2%",
+        "Raymon Doane (Libertarian) 1.7%",
+        "Daniel Doyle (Approval Voting) 0.3%",
+        "Stephan \"Seku\" Evans (Unity) 0.3%"
+      ]
+    },
+    {
+      "state": "Delaware",
+      "incumbent": {
+        "name": "Chris Coons",
+        "elect_hist": [
+          "2010 (Special)",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Chris Coons (Democratic) 59.4%",
+        "Lauren Witzke (Republican) 37.9%",
+        "Mark Turley (Delaware Independent) 1.6%",
+        "Nadine Frost (Libertarian) 1.1%"
+      ]
+    },
+    {
+      "state": "Georgia",
+      "incumbent": {
+        "name": "David Perdue",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent lost re-election.New senator elected.Democratic gain.",
+      "candidates": [
+        "Y Jon Ossoff (Democratic) 50.6%[81]",
+        "David Perdue (Republican) 49.4%[81]"
+      ]
+    },
+    {
+      "state": "Idaho",
+      "incumbent": {
+        "name": "Jim Risch",
+        "elect_hist": [
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Jim Risch (Republican) 62.6%",
+        "Paulette Jordan (Democratic) 33.3%",
+        "Natalie Fleming (Independent) 2.9%",
+        "Ray Writz (Constitution) 1.2%"
+      ]
+    },
+    {
+      "state": "Illinois",
+      "incumbent": {
+        "name": "Dick Durbin",
+        "elect_hist": [
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Dick Durbin (Democratic) 54.9%",
+        "Mark Curran (Republican) 38.9%",
+        "Willie Wilson (Willie Wilson Party) 4%",
+        "Danny Malouf (Libertarian) 1.3%",
+        "David F. Black (Green) 0.9%"
+      ]
+    },
+    {
+      "state": "Iowa",
+      "incumbent": {
+        "name": "Joni Ernst",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Joni Ernst (Republican) 51.8%",
+        "Theresa Greenfield (Democratic) 45.2%",
+        "Rick Stewart (Libertarian) 2.2%",
+        "Suzanne Herzog (Independent) 0.8%"
+      ]
+    },
+    {
+      "state": "Kansas",
+      "incumbent": {
+        "name": "Pat Roberts",
+        "elect_hist": [
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Republican hold.",
+      "candidates": [
+        "Y Roger Marshall (Republican) 53.2%",
+        "Barbara Bollier (Democratic) 41.8%",
+        "Jason Buckley (Libertarian) 5%"
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "incumbent": {
+        "name": "Mitch McConnell",
+        "elect_hist": [
+          "1984",
+          "1990",
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Mitch McConnell (Republican) 57.8%",
+        "Amy McGrath (Democratic) 38.2%",
+        "Brad Barron (Libertarian) 4%"
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "incumbent": {
+        "name": "Bill Cassidy",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Bill Cassidy (Republican) 59.3%",
+        "Adrian Perkins (Democratic) 19%",
+        "Champ Edwards (Democratic) 11.1%",
+        "Antoine Pierce (Democratic) 2.7%",
+        "Dustin Murphy (Republican) 1.9%",
+        "Drew David Knight (Democratic) 1.8%",
+        "Beryl Billiot (Independent) 0.8%",
+        "John Paul Bourgeois (Independent) 0.8%",
+        "Peter Wenstrup (Democratic) 0.7%",
+        "Aaron Sigler (Libertarian) 0.5%",
+        "Vinny Mendoza (Independent) 0.4%",
+        "Melinda Mary Price (Independent) 0.4%",
+        "Jamar Montgomery (Independent) 0.3%",
+        "Reno Daret III (Independent) 0.2%",
+        "Xan John (Independent) 0.1%"
+      ]
+    },
+    {
+      "state": "Maine",
+      "incumbent": {
+        "name": "Susan Collins",
+        "elect_hist": [
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Susan Collins (Republican) 51%",
+        "Sara Gideon (Democratic) 42.4%",
+        "Lisa Savage (Independent) 5%",
+        "Max Linn (Independent) 1.6%"
+      ]
+    },
+    {
+      "state": "Massachusetts",
+      "incumbent": {
+        "name": "Ed Markey",
+        "elect_hist": [
+          "2013 (Special)",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Ed Markey (Democratic) 66.2%",
+        "Kevin O'Connor (Republican) 33%",
+        "Write-ins 0.8%"
+      ]
+    },
+    {
+      "state": "Michigan",
+      "incumbent": {
+        "name": "Gary Peters",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Gary Peters (Democratic) 49.9%",
+        "John James (Republican) 48.2%",
+        "Valerie Willis (U.S. Taxpayers) 0.9%",
+        "Marcia Squier (Green) 0.7%",
+        "Doug Dern (Natural Law) 0.2%"
+      ]
+    },
+    {
+      "state": "Minnesota",
+      "incumbent": {
+        "name": "Tina Smith",
+        "elect_hist": [
+          "2018 (Special)"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Tina Smith (Democratic) 48.8%",
+        "Jason Lewis (Republican) 43.5%",
+        "Kevin O'Connor (Legal Marijuana Now) 5.9%",
+        "Oliver Steinberg (Legalize Cannabis) 1.8%"
+      ]
+    },
+    {
+      "state": "Mississippi",
+      "incumbent": {
+        "name": "Cindy Hyde-Smith",
+        "elect_hist": [
+          "2018 (Special)"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Cindy Hyde-Smith (Republican) 54.1%",
+        "Mike Espy (Democratic) 44.1%",
+        "Jimmy Edwards (Libertarian) 1.8%",
+        "Write-ins 0.1%"
+      ]
+    },
+    {
+      "state": "Montana",
+      "incumbent": {
+        "name": "Steve Daines",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Steve Daines (Republican) 55%",
+        "Steve Bullock (Democratic) 45%"
+      ]
+    },
+    {
+      "state": "Nebraska",
+      "incumbent": {
+        "name": "Ben Sasse",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Ben Sasse (Republican) 59.6%",
+        "Chris Janicek (Democratic) 23.2%",
+        "Preston Love Jr. (Democratic) (write-in) 11.6%",
+        "Gene Siadek (Libertarian) 5.6%"
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "incumbent": {
+        "name": "Jeanne Shaheen",
+        "elect_hist": [
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Jeanne Shaheen (Democratic) 56.7%",
+        "Corky Messner (Republican) 41%",
+        "Justin O'Donnell (Libertarian) 2.3%"
+      ]
+    },
+    {
+      "state": "New Jersey",
+      "incumbent": {
+        "name": "Cory Booker",
+        "elect_hist": [
+          "2013 (Special)",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Cory Booker (Democratic) 57.2%",
+        "Rik Mehta (Republican) 40.9%",
+        "Madelyn R. Hoffman (Green) 0.9%",
+        "Veronica Fernandez (Of, By, For!) 0.7%",
+        "Daniel Burke (LaRouche was Right) 0.3%"
+      ]
+    },
+    {
+      "state": "New Mexico",
+      "incumbent": {
+        "name": "Tom Udall",
+        "elect_hist": [
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Democratic hold.",
+      "candidates": [
+        "Y Ben Ray Luj\u00e1n (Democratic) 51.7%",
+        "Mark Ronchetti (Republican) 45.6%",
+        "Bob Walsh (Libertarian) 2.6%"
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "incumbent": {
+        "name": "Thom Tillis",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Thom Tillis (Republican) 48.7%",
+        "Cal Cunningham (Democratic) 46.9%",
+        "Shannon Bray (Libertarian) 3.1%",
+        "Kevin Hayes (Constitution) 1.2%"
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "incumbent": {
+        "name": "Jim Inhofe",
+        "elect_hist": [
+          "1994 (Special)",
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Jim Inhofe (Republican) 62.9%",
+        "Abby Broyles (Democratic) 32.8%",
+        "Robert Murphy (Libertarian) 2.2%",
+        "Joan Farr (Independent) 1.4%",
+        "A. D. Nesbit (Independent) 0.7%"
+      ]
+    },
+    {
+      "state": "Oregon",
+      "incumbent": {
+        "name": "Jeff Merkley",
+        "elect_hist": [
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Jeff Merkley (Democratic) 56.9%",
+        "Jo Rae Perkins (Republican) 39.3%",
+        "Gary Dye (Libertarian) 1.8%",
+        "Ibrahim Taher (Pacific Green) 1.8%",
+        "Write-ins 0.1%"
+      ]
+    },
+    {
+      "state": "Rhode Island",
+      "incumbent": {
+        "name": "Jack Reed",
+        "elect_hist": [
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Jack Reed (Democratic) 66.6%",
+        "Allen Waters (Republican) 33.4%"
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "incumbent": {
+        "name": "Lindsey Graham",
+        "elect_hist": [
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Lindsey Graham (Republican) 54.5%",
+        "Jaime Harrison (Democratic) 44.2%",
+        "Bill Bledsoe (Constitution) 1.3%"
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "incumbent": {
+        "name": "Mike Rounds",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Mike Rounds (Republican) 65.7%",
+        "Dan Ahlers (Democratic) 34.3%"
+      ]
+    },
+    {
+      "state": "Tennessee",
+      "incumbent": {
+        "name": "Lamar Alexander",
+        "elect_hist": [
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Republican hold.",
+      "candidates": [
+        "Y Bill Hagerty (Republican) 62.2%",
+        "Marquita Bradshaw (Democratic) 35.2%",
+        "Elizabeth McLeod (Independent) 0.6%",
+        "Yomi Faparusi (Independent) 0.4%",
+        "Steven Hooper (Independent) 0.3%",
+        "Kacey Morgan (Independent) 0.3%",
+        "Ronnie Henley (Independent) 0.3%",
+        "Aaron James (Independent) 0.2%",
+        "Eric Stansberry (Independent) 0.2%",
+        "Dean Hill (Independent) 0.2%",
+        "Jeffrey Grunau (Independent) 0.1%"
+      ]
+    },
+    {
+      "state": "Texas",
+      "incumbent": {
+        "name": "John Cornyn",
+        "elect_hist": [
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y John Cornyn (Republican) 53.5%",
+        "MJ Hegar (Democratic) 43.9%",
+        "Kerry McKennon (Libertarian) 1.9%",
+        "David B. Collins (Green) 0.7%"
+      ]
+    },
+    {
+      "state": "Virginia",
+      "incumbent": {
+        "name": "Mark Warner",
+        "elect_hist": [
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Mark Warner (Democratic) 56%",
+        "Daniel Gade (Republican) 44%"
+      ]
+    },
+    {
+      "state": "West Virginia",
+      "incumbent": {
+        "name": "Shelley Moore Capito",
+        "elect_hist": [
+          "2014"
+        ]
+      },
+      "result": "Incumbent reelected.",
+      "candidates": [
+        "Y Shelley Moore Capito (Republican) 70.3%",
+        "Paula Jean Swearengin (Democratic) 27%",
+        "David Moran (Libertarian) 2.7%"
+      ]
+    },
+    {
+      "state": "Wyoming",
+      "incumbent": {
+        "name": "Mike Enzi",
+        "elect_hist": [
+          "1996",
+          "2002",
+          "2008",
+          "2014"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Republican hold.",
+      "candidates": [
+        "Y Cynthia Lummis (Republican) 73.1%",
+        "Merav Ben-David (Democratic) 26.9%"
+      ]
+    }
+  ]
+}
