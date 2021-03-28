@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c3820f70-088a-4ed4-a09d-608c6fe71543" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/get_election_links.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/get_election_links.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/venv/scrape.py" beforeDir="false" afterPath="$PROJECT_DIR$/venv/scrape.py" afterDir="false" />
-    </list>
+    <list default="true" id="c3820f70-088a-4ed4-a09d-608c6fe71543" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -117,7 +112,7 @@
       <option name="presentableId" value="Default" />
       <updated>1616891019537</updated>
       <workItem from="1616891020677" duration="14490000" />
-      <workItem from="1616958240917" duration="3857000" />
+      <workItem from="1616958240917" duration="4093000" />
     </task>
     <servers />
   </component>
