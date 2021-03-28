@@ -1,0 +1,545 @@
+{
+  "year": "1914",
+  "elections": [
+    {
+      "state": "Alabama",
+      "incumbent": {
+        "name": "Francis S. White",
+        "elect_hist": [
+          "1914 (Special)"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Democratic hold.",
+      "candidates": [
+        "Y Oscar Underwood (Democratic) 90.2%",
+        "Alex Birch (Republican) 6.8%",
+        "Adolphus Longshore (Progressive) 2.35%",
+        "S. F. Hinton (Socialist) 0.64%[3]"
+      ]
+    },
+    {
+      "state": "Arizona",
+      "incumbent": {
+        "name": "Marcus A. Smith",
+        "elect_hist": [
+          "1912"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Marcus A. Smith (Democratic) 53.23%",
+        "Don Lorenzo Hubbell (Republican) 18.95%",
+        "Eugene W. Chafin (Prohibition) 15.05%",
+        "Bert Davis (Socialist) 7.39%",
+        "J. Bernard Nelson (Progressive) 5.38%[4]"
+      ]
+    },
+    {
+      "state": "Arkansas",
+      "incumbent": {
+        "name": "James Paul Clarke",
+        "elect_hist": [
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y James Paul Clarke (Democratic) 74.88%",
+        "Harry H. Myers (Republican) 25.12%[5]"
+      ]
+    },
+    {
+      "state": "California",
+      "incumbent": {
+        "name": "George Clement Perkins",
+        "elect_hist": [
+          "1895 (Special)",
+          "1897",
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Democratic gain.",
+      "candidates": [
+        "Y James D. Phelan (Democratic) 31.59%",
+        "Francis J. Heney (Progressive) 28.81%",
+        "Joseph R. Knowland (Republican) 28.69%",
+        "Ernest Untermann (Socialist) 6.41%",
+        "Frederick F. Wheeler (Prohibition) 4.51%[6]"
+      ]
+    },
+    {
+      "state": "Colorado",
+      "incumbent": {
+        "name": "Charles S. Thomas",
+        "elect_hist": [
+          "1913 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Charles S. Thomas (Democratic) 40.3%",
+        "Hubert Work (Republican) 38.99%",
+        "Benjamin Griffith (Progressive) 10.69%",
+        "J. C. Griffiths (Socialist) 5.51%",
+        "George J. Kindel (Independent) 4.52%[7]"
+      ]
+    },
+    {
+      "state": "Connecticut",
+      "incumbent": {
+        "name": "Frank B. Brandegee",
+        "elect_hist": [
+          "1905 (Special)",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Frank B. Brandegee (Republican) 49.77%",
+        "Simeon Eben Baldwin (Democratic) 42.08%",
+        "Herbert Smith (Progressive) 3.79%",
+        "George Spiess (Socialist) 3.26%",
+        "Frederick Platt (Prohibition) 0.75%",
+        "Clarence Warner (Socialist Labor) 0.36%[8]"
+      ]
+    },
+    {
+      "state": "Florida",
+      "incumbent": {
+        "name": "Duncan U. Fletcher",
+        "elect_hist": [
+          "1909 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Duncan U. Fletcher (Democratic)",
+        "Unopposed[9]"
+      ]
+    },
+    {
+      "state": "Georgia",
+      "incumbent": {
+        "name": "M. Hoke Smith",
+        "elect_hist": [
+          "1911 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y M. Hoke Smith (Democratic) 68.48%",
+        "C. W. McClure (Republican) 31.52%[10]"
+      ]
+    },
+    {
+      "state": "Idaho",
+      "incumbent": {
+        "name": "James H. Brady",
+        "elect_hist": [
+          "1913 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y James H. Brady (Republican) 43.89%",
+        "James H. Hawley (Democratic) 38.14%",
+        "Paul Clagstone (Progressive) 9.54%",
+        "Calistus Cooper (Socialist) 7.29%",
+        "W. M. Duthie (Prohibition) 1.14%[11]"
+      ]
+    },
+    {
+      "state": "Illinois",
+      "incumbent": {
+        "name": "Lawrence Y. Sherman",
+        "elect_hist": [
+          "1913 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Lawrence Sherman (Republican) 38.46%",
+        "Roger Charles Sullivan (Democratic) 36.76%",
+        "Raymond Robins (Progressive) 19.99%",
+        "Adolph Gernies (Socialist) 3.93%",
+        "George Woolsey (Prohibition) 0.66%",
+        "John M. Francis (Socialist Labor) 0.21%[12]"
+      ]
+    },
+    {
+      "state": "Indiana",
+      "incumbent": {
+        "name": "Benjamin F. Shively",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Benjamin F. Shively (Democratic) 42.14%",
+        "Hugh T. Miller (Republican) 35.1%",
+        "Albert J. Beveridge (Progressive) 16.81%",
+        "Stephen N. Reynolds (Socialist) 3.36%",
+        "Sumner Haynes (Prohibition) 2.15%",
+        "James Matthews (Socialist Labor) 0.45%[13]"
+      ]
+    },
+    {
+      "state": "Iowa",
+      "incumbent": {
+        "name": "Albert B. Cummins",
+        "elect_hist": [
+          "1908 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Albert B. Cummins (Republican) 48.19%",
+        "Maurice Connolly (Democratic) 39.16%",
+        "Otis Spurgeon (Independent) 5.73%",
+        "Casper Schenk (Progressive) 3.53%",
+        "I. S. McCullis (Socialist) 1.98%",
+        "M. L. Christian (Prohibition) 1.41%[14]"
+      ]
+    },
+    {
+      "state": "Kansas",
+      "incumbent": {
+        "name": "Joseph L. Bristow",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent lost renomination.New senator elected.[15]Republican hold.",
+      "candidates": [
+        "Y Charles Curtis (Republican) 35.53%",
+        "George A. Neeley (Democratic) 34.77%",
+        "Victor Murdock (Progressive) 22.94%",
+        "Christian B. Hoffman (Socialist) 4.82%",
+        "Earle Delay (Prohibition) 1.94%[16]"
+      ]
+    },
+    {
+      "state": "Kentucky",
+      "incumbent": {
+        "name": "Johnson N. Camden Jr.",
+        "elect_hist": [
+          "1914 (Special)"
+        ]
+      },
+      "result": "Interim appointee retired.New senator elected.Democratic hold.",
+      "candidates": [
+        "Y J. C. W. Beckham (Democratic) 51.89%",
+        "Augustus E. Willson (Republican) 42.53%",
+        "Burton Vance (Progressive) 4.15%",
+        "H. J. Robertson (Socialist) 1.44%[17]"
+      ]
+    },
+    {
+      "state": "Louisiana",
+      "incumbent": {
+        "name": "John Thornton",
+        "elect_hist": [
+          "1910 (Special)"
+        ]
+      },
+      "result": "Incumbent retired.New senator had already been elected early May 21, 1912.Democratic hold.",
+      "candidates": [
+        "Y Robert F. Broussard (Democratic)",
+        "Unopposed[18][19]"
+      ]
+    },
+    {
+      "state": "Maryland",
+      "incumbent": {
+        "name": "John W. Smith",
+        "elect_hist": [
+          "1908 (Special)",
+          "1908"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y John W. Smith (Democratic) 50.99%",
+        "Edward C Carrington Jr. (Republican) 43.89%",
+        "V. Milton Reichard (Progressive) 1.71%",
+        "Charles Develin (Socialist) 1.51%",
+        "Richard H. Holme (Prohibition) 1.46%",
+        "Robert W. Stevens (Labor) 0.45%[20]"
+      ]
+    },
+    {
+      "state": "Missouri",
+      "incumbent": {
+        "name": "William J. Stone",
+        "elect_hist": [
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y William J. Stone (Democratic) 50.41%",
+        "Thomas J. Akins (Republican) 41.58%",
+        "Arthur N. Sager (Progressive) 4.47%",
+        "Thomas E. Greene (Socialist) 2.76%",
+        "Orange J. Hill (Prohibition) 0.59%",
+        "J. W. Molineaux (Socialist Labor) 0.2%[21]"
+      ]
+    },
+    {
+      "state": "Nevada",
+      "incumbent": {
+        "name": "Francis G. Newlands",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Francis G. Newlands (Democratic) 37.46%",
+        "Samuel Platt (Republican) 37.27%",
+        "Ashley G. Miller (Socialist) 25.28%[22]"
+      ]
+    },
+    {
+      "state": "New Hampshire",
+      "incumbent": {
+        "name": "Jacob Gallinger",
+        "elect_hist": [
+          "1891",
+          "1897",
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Jacob Gallinger (Republican) 51.66%",
+        "Raymond Stevens (Democratic) 44.63%",
+        "Benjamin F. Grier (Prohibition) 2.38%",
+        "William H. Wilkins (Socialist) 1.34%[23]"
+      ]
+    },
+    {
+      "state": "New York",
+      "incumbent": {
+        "name": "Elihu Root",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Republican hold.",
+      "candidates": [
+        "Y James Wadsworth (Republican) 47.04%",
+        "James W. Gerard (Democratic) 42.06%",
+        "Bainbridge Colby (Progressive) 4.56%",
+        "Charles Edward Russell (Socialist) 4.07%",
+        "Francis E. Baldwin (Prohibition) 2.05%",
+        "Erwin Archer (Socialist Labor) 0.23%"
+      ]
+    },
+    {
+      "state": "North Carolina",
+      "incumbent": {
+        "name": "Lee Slater Overman",
+        "elect_hist": [
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Lee Slater Overman (Democratic) 58.1%",
+        "A.A. Whitener (Republican) 41.7%",
+        "Henry J. Oliver (Socialist) 0.2%[24]"
+      ]
+    },
+    {
+      "state": "North Dakota",
+      "incumbent": {
+        "name": "Asle Gronna",
+        "elect_hist": [
+          "1911 (Special)"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Asle Gronna (Republican) 55.82%",
+        "William E. Purcell (Democratic) 33.95%",
+        "W. H. Brown (Socialist) 7.14%",
+        "Sever Serumgard (Independent) 3.1%[25]"
+      ]
+    },
+    {
+      "state": "Ohio",
+      "incumbent": {
+        "name": "Theodore E. Burton",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Republican hold.",
+      "candidates": [
+        "Y Warren G. Harding (Republican) 49.16%",
+        "Timothy S. Hogan (Democratic) 39.6%",
+        "Arthur Lovett Garford (Progressive) 6.31%",
+        "E. K. Hitchens (Socialist) 4.93%[26]"
+      ]
+    },
+    {
+      "state": "Oklahoma",
+      "incumbent": {
+        "name": "Thomas Gore",
+        "elect_hist": [
+          "1907 (New state)",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Thomas Gore (Democratic) 47.98%",
+        "John B. Campbell (Republican) 29.44%",
+        "W. D. Cope (Socialist) 20.99%",
+        "Luther Kyle (Prohibition) 1.59%[27]"
+      ]
+    },
+    {
+      "state": "Oregon",
+      "incumbent": {
+        "name": "George Chamberlain",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y George Chamberlain (Democratic) 45.5%",
+        "R. A. Booth (Republican) 35.95%",
+        "William Hanley (Progressive) 10.68%",
+        "Benjamin Ramp (Socialist) 4.34%",
+        "H. S. Stine (Prohibition) 3.52%[28]"
+      ]
+    },
+    {
+      "state": "Pennsylvania",
+      "incumbent": {
+        "name": "Boies Penrose",
+        "elect_hist": [
+          "1897",
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Boies Penrose (Republican) 46.76%",
+        "Gifford Pinchot (Progressive) 24.22%",
+        "A. Mitchell Palmer (Democratic) 23.97%",
+        "Frederick Whiteside (Socialist) 3.41%",
+        "Madison Larkin (Prohibition) 1.58%",
+        "A. S. Landis (Socialist Labor) 0.06%[29]"
+      ]
+    },
+    {
+      "state": "South Carolina",
+      "incumbent": {
+        "name": "Ellison D. Smith",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Ellison D. Smith (Democratic) 99.7%",
+        "James H. Roberts (Socialist) 0.3%"
+      ]
+    },
+    {
+      "state": "South Dakota",
+      "incumbent": {
+        "name": "Coe I. Crawford",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent lost renomination.New senator elected.Democratic gain.",
+      "candidates": [
+        "Y Edwin S. Johnson (Democratic) 48.32%",
+        "Charles H. Burke (Republican) 44.47%",
+        "E. P. Johnson (Socialist) 2.69%",
+        "O. W. Butterfield (Prohibition) 2.42%",
+        "H. L. Loucks (Independent) 2.11%[30]"
+      ]
+    },
+    {
+      "state": "Utah",
+      "incumbent": {
+        "name": "Reed Smoot",
+        "elect_hist": [
+          "1903",
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Reed Smoot (Republican) 49.08%",
+        "James Moyle (Democratic) 46.33%",
+        "J. F. Parsons (Socialist) 4.59%[31]"
+      ]
+    },
+    {
+      "state": "Vermont",
+      "incumbent": {
+        "name": "William P. Dillingham",
+        "elect_hist": [
+          "1900 (Special)",
+          "1902",
+          "1908"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y William P. Dillingham (Republican) 56.05%",
+        "Charles A. Prouty (Democratic) 42.69%",
+        "James H. Canfield (Socialist) 1.23%[32]"
+      ]
+    },
+    {
+      "state": "Washington",
+      "incumbent": {
+        "name": "Wesley Livsey Jones",
+        "elect_hist": [
+          "1909"
+        ]
+      },
+      "result": "Incumbent re-elected.",
+      "candidates": [
+        "Y Wesley Livsey Jones (Republican) 37.79%",
+        "William W. Black (Democratic) 26.57%",
+        "Ole Hanson (Progressive) 24.12%",
+        "Adam Barth (Socialist) 8.76%",
+        "Arthur Caton (Prohibition) 2.77%[33]"
+      ]
+    },
+    {
+      "state": "Wisconsin",
+      "incumbent": {
+        "name": "Isaac Stephenson",
+        "elect_hist": [
+          "1907 (Special)",
+          "1909"
+        ]
+      },
+      "result": "Incumbent retired.New senator elected.Democratic gain.",
+      "candidates": [
+        "Y Paul O. Husting (Democratic) 43.82%",
+        "Francis E. McGovern (Republican) 43.5%",
+        "Emil Seidel (Socialist) 9.67%",
+        "Charles L. Hill (Prohibition) 3.01%[34]"
+      ]
+    }
+  ]
+}
