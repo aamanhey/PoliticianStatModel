@@ -17,10 +17,18 @@ filepath = path.abspath(path.join(basepath, "..", "data","wikidata.json"))
 with open(filepath) as f:
   wikidata = json.load(f)
 
-# start with 2000 - 2015
-senators = {}
-# str(int((year-1788)/2))
-for year in range(2000, 2015+1):
-    congress_num = str(int((year-1788)/2))
-    senate = propublica[congress_num]
-# unfinished
+merged_data = []
+
+for year in range(1990, 2015+1):
+    index = int((year-1914)/2)
+    elections = wikidata[index]['elections']
+    propublica_senate = propublica[str(int((year-1788)/2))]
+    for election in elections:
+        senator = election['incumbent']['name']
+        if(senator in propublica_senate):
+            pp_info = propublica_senate[senator]
+            election['incumbent']['pp_info'] = pp_info
+    merged_data.append(wikidata[index])
+
+with open('merged_data.json', 'w') as outfile:
+    json.dump(merged_data, outfile, indent=2)
