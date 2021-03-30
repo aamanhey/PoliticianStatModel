@@ -68,11 +68,13 @@ def parse(response):
 
 def toJSON(elections):
     # convert to JSON
-    json_dump = json.dumps(elections, indent=2)
-    # write to external file
-    f = open("completElectionData.json", "w")
-    f.write(json_dump)
-    f.close()
+    # json_dump = json.dumps(elections, indent=2)
+    # # write to external file
+    # f = open("completElectionData.json", "w")
+    # f.write(json_dump)
+    # f.close()
+    with open('completElectionData.json', 'w') as outfile:
+        json.dump(elections, outfile, indent=2)
 
 def scrape(elections_links, params):
     url_head = 'https://en.wikipedia.org'

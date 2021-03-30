@@ -1,0 +1,230 @@
+{
+  "101": {
+    "women": 2,
+    "men": 99,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 55.130625,
+      "number": 11,
+      "senators": {
+        "Brockman Adams": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Lloyd Bentsen": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Rudolph Boschwitz": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Quentin Burdick": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Alan Cranston": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Alan Dixon": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Wyche Fowler": {
+          "i_acc": 75,
+          "gender": "male"
+        },
+        "Gordon Humphrey": {
+          "i_acc": 99,
+          "gender": "male"
+        },
+        "Spark Matsunaga": {
+          "i_acc": 75,
+          "gender": "male"
+        },
+        "Larry Pressler": {
+          "i_acc": 99,
+          "gender": "male"
+        },
+        "Steven Symms": {
+          "i_acc": 100,
+          "gender": "male"
+        }
+      }
+    }
+  },
+  "102": {
+    "women": 4,
+    "men": 100,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 74.25,
+      "number": 8,
+      "senators": {
+        "Brockman Adams": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Lloyd Bentsen": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Quentin Burdick": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Alan Cranston": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Alan Dixon": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Wyche Fowler": {
+          "i_acc": 75,
+          "gender": "male"
+        },
+        "Larry Pressler": {
+          "i_acc": 99,
+          "gender": "male"
+        },
+        "Steven Symms": {
+          "i_acc": 100,
+          "gender": "male"
+        }
+      }
+    }
+  },
+  "103": {
+    "women": 7,
+    "men": 97,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 99.0,
+      "number": 2,
+      "senators": {
+        "Lloyd Bentsen": {
+          "i_acc": 100,
+          "gender": "male"
+        },
+        "Larry Pressler": {
+          "i_acc": 99,
+          "gender": "male"
+        }
+      }
+    }
+  },
+  "104": {
+    "women": 9,
+    "men": 94,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 99.0,
+      "number": 1,
+      "senators": {
+        "Larry Pressler": {
+          "i_acc": 99,
+          "gender": "male"
+        }
+      }
+    }
+  },
+  "105": {
+    "women": 9,
+    "men": 91,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "106": {
+    "women": 9,
+    "men": 93,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "107": {
+    "women": 14,
+    "men": 90,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "108": {
+    "women": 14,
+    "men": 86,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "109": {
+    "women": 14,
+    "men": 87,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "110": {
+    "women": 16,
+    "men": 86,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "111": {
+    "women": 18,
+    "men": 92,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "112": {
+    "women": 17,
+    "men": 85,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "113": {
+    "women": 20,
+    "men": 85,
+    "non-binary": 0,
+    "approximations": {
+      "overall accuracy": 100,
+      "number": 0,
+      "senators": {}
+    }
+  },
+  "total": {
+    "women": 153,
+    "men": 1185,
+    "other": 0,
+    "approximations": 22
+  }
+}
