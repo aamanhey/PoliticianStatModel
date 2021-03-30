@@ -1,0 +1,67 @@
+{
+  "101": {
+    "incumbent_wins": 29,
+    "candidates": 53,
+    "elections": 33
+  },
+  "102": {
+    "incumbent_wins": 23,
+    "candidates": 111,
+    "elections": 34
+  },
+  "103": {
+    "incumbent_wins": 23,
+    "candidates": 94,
+    "elections": 33
+  },
+  "104": {
+    "incumbent_wins": 19,
+    "candidates": 118,
+    "elections": 33
+  },
+  "105": {
+    "incumbent_wins": 26,
+    "candidates": 103,
+    "elections": 34
+  },
+  "106": {
+    "incumbent_wins": 22,
+    "candidates": 134,
+    "elections": 33
+  },
+  "107": {
+    "incumbent_wins": 24,
+    "candidates": 87,
+    "elections": 33
+  },
+  "109": {
+    "incumbent_wins": 23,
+    "candidates": 107,
+    "elections": 33
+  },
+  "110": {
+    "incumbent_wins": 23,
+    "candidates": 88,
+    "elections": 33
+  },
+  "111": {
+    "incumbent_wins": 20,
+    "candidates": 100,
+    "elections": 34
+  },
+  "112": {
+    "incumbent_wins": 21,
+    "candidates": 100,
+    "elections": 33
+  },
+  "113": {
+    "incumbent_wins": 21,
+    "candidates": 103,
+    "elections": 33
+  },
+  "total": {
+    "incumbent_wins": 274,
+    "candidates": 1198,
+    "elections": 399
+  }
+}
