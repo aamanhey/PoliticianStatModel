@@ -6,10 +6,10 @@ import matplotlib.pyplot as plt
 with open('propublica.json') as f:
   data = json.load(f)
 
-#print(json.dumps(data, indent=2))
 all_senators = {}
+# go through each of the entries in the propublica data and get a specified set of fields
 for i in range(80, 117+1):
-    senators = data[str(i)]['results'][0]['members']
+    senators = data[str(i)]['results'][0]['members'] # senators in one congress
     formatted_senators = {}
     for each in senators:
         sen = {"title": each['title'],
@@ -43,5 +43,6 @@ for i in range(80, 117+1):
         all_senators[i] = formatted_senators
     print(i, "parsed")
 
+# exports the all_senators dictionary to a file as a JSON string
 with open('propublica_formatted.json', 'w') as outfile:
     json.dump(all_senators, outfile, indent=2)

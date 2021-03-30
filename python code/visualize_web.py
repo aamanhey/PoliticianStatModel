@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 from os import path
 import json
 
-# Defining a Class
+# Defining a graph class
 class GraphVisualization:
 
 	def __init__(self):
@@ -53,3 +53,4 @@ for each in wikidata:
                 for year in election_history:
                     senate.addEdge(senator, year[:4])
 senate.visualize()
+# creates a blob

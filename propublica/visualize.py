@@ -5,12 +5,14 @@ import matplotlib.pyplot as plt
 with open('stats.json') as f:
   data = json.load(f)
 
+# creates a scatter plot of the data
 def scatter():
     x_vals = []
     y_vals = []
     for each in data:
         print(each)
         if(each != 'total'):
+            # get the proportion of women to men in the senate in the current year
             year = 1788 + 2*(int(each))
             congress = data[each]
             women = congress['women']
@@ -18,26 +20,31 @@ def scatter():
             p = women / men
             x_vals.append(year)
             y_vals.append(p)
+    # create the scatter plot using matplotlib
     fig = plt.figure()
     s = plt.scatter(x_vals, y_vals)
-    print(x_vals, y_vals)
     fig.suptitle('Proportion of Women to Men in the Senate\nfrom the 101st to the 113th Congresses')
     plt.show()
 
+# creates a histogram of the data
 def histogram():
+    # gets the total number of men and women in the senate
     overall = data['total']
     new_data = {'women':overall['women'],'men':overall['men'],'other':overall['other']}
     names = list(new_data.keys())
     values = list(new_data.values())
 
+    # create the histogram using matplotlib
     fig, axs = plt.subplots()
     axs.bar(names, values)
     fig.suptitle('101-113th Congresses')
     plt.show()
 
+
 scatter()
 
 '''
+Info About Our Current Stats (from online):
 Confidence Level : 90%
 Population Size: 1338
 Margin of Error: 7%

@@ -6,11 +6,13 @@ import get_election_links
 
 
 def get_header(response):
+    # gets the header for the wiki page
     html_file = BeautifulSoup(response.text, "html.parser")
     heading = html_file.findAll('h1', {"class":"firstHeading"})
     return heading[0].text.strip()
 
 def get_election(table_row):
+    # gets data from a row in the table on wiki page
     state_name = table_row.find('th')
     election_info = table_row.findAll('td')
 
@@ -67,16 +69,13 @@ def parse(response):
     return election_year
 
 def toJSON(elections):
-    # convert to JSON
-    # json_dump = json.dumps(elections, indent=2)
-    # # write to external file
-    # f = open("completElectionData.json", "w")
-    # f.write(json_dump)
-    # f.close()
+    # exports the python object to a file as a JSON string
     with open('completElectionData.json', 'w') as outfile:
         json.dump(elections, outfile, indent=2)
 
 def scrape(elections_links, params):
+    # goes through the pages on wikipedia, with the provided links and gathers
+    # some data
     url_head = 'https://en.wikipedia.org'
     elections = []
     for election_link in elections_links:
