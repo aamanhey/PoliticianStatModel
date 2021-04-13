@@ -81,6 +81,8 @@ class ElectionYear:
         candidate2 = make_candidate(state, election_data[21:26])
         candidate2.is_incumbent(check_incumbent(incumbent, candidate2))
 
+        if(candidate2.person.name == "Unopposed"):
+            candidate1.perc_votes = "1.00"
 
         # MAKE ELECTION
         election = Election(state, election_data[0])
