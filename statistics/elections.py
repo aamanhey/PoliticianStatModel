@@ -47,9 +47,9 @@ def make_incumbent(person, election_data):
 def check_incumbent(incumbent, candidate):
     incumbent_name = incumbent.person.name.split(" ")
     candidate_name = candidate.person.name.split(" ")
-    if not(len(incumbent_name) == 3 and len(candidate_name) == 2):
+    if (len(incumbent_name) != 2 or len(candidate_name) != 3):
         return False
-    if(incumbent_name[0] == candidate_name[0] and incumbent_name[2] == candidate_name[1]):
+    if(incumbent_name[0] == candidate_name[0] and incumbent_name[1] == candidate_name[1]):
         return True
     return False
 
@@ -76,10 +76,10 @@ class ElectionYear:
         incumbent = make_incumbent(person, election_data[7:12])
         # GET CANDIDATES
         candidate1 = make_candidate(state, election_data[14:19])
-        candidate1.is_incumbent = check_incumbent(incumbent, candidate1)
+        candidate1.is_incumbent(check_incumbent(incumbent, candidate1))
 
         candidate2 = make_candidate(state, election_data[21:26])
-        candidate2.is_incumbent = check_incumbent(incumbent, candidate2)
+        candidate2.is_incumbent(check_incumbent(incumbent, candidate2))
 
 
         # MAKE ELECTION

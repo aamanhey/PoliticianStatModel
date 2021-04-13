@@ -39,6 +39,7 @@ class Candidate:
         self.person = person
         self.perc_votes = perc_votes
         self.funding = funding
+        self.incumbent = False
 
     def is_incumbent(self, status):
         self.incumbent = status
