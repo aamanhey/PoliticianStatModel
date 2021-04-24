@@ -79,7 +79,8 @@ def get_percentage_of_votes(current_data, election):
     c2 = candidates[1]
 
     # print(incumbent == None, c1.person.gender, c2.person.gender)
-    data_point["x-val"] = c1.person.gender
+    #data_point["x-val"] = float("".join(c1.funding.strip("$").split(",")))
+    data_point["x-val"] = election.year
 
     data_point["Percent of Vote"] = float(c1.perc_votes.strip("%"))
 
@@ -100,14 +101,19 @@ def get_percentage_of_votes(current_data, election):
             # winner male, loser male
             data_point["type"] = 3
 
-    current_data["x_vals"].append(data_point["x-val"])
-    current_data["y_vals"].append(data_point["Percent of Vote"])
-    current_data["categories"].append(data_point["type"])
+    # current_data["x_vals"].append(data_point["x-val"])
+    # current_data["y_vals"].append(data_point["Percent of Vote"])
+    # current_data["categories"].append(data_point["type"])
+
+    current_data[data_point["type"]]["x_vals"].append(data_point["x-val"])
+    current_data[data_point["type"]]["y_vals"].append(data_point["Percent of Vote"])
 
     return current_data
 
 def election_stats(all_election_years):
-    data = {"x_vals":[], "y_vals":[], "categories":[]}
+    #data = {"x_vals":[], "y_vals":[], "categories":[]}
+    sub_data = {"x_vals":[], "y_vals":[]}
+    data = [{"x_vals":[], "y_vals":[]}, {"x_vals":[], "y_vals":[]}, {"x_vals":[], "y_vals":[]}, {"x_vals":[], "y_vals":[]}] # category: {x_vals[], y_vals[]}
 
     for election_year in all_election_years:
         if(election_year != None and election_year.year != "year"):
@@ -116,13 +122,28 @@ def election_stats(all_election_years):
                 election.print()
                 data = get_percentage_of_votes(data, election)
 
-    colormap = np.array(['#d9d9d9', '#f4b400', '#4285f4', '#db4437', '#0f9d58']) # y, b, r, g
+    # colormap = np.array(['#f4b400', '#4285f4', '#db4437', '#bebdbe'])
+    colormap = np.array(['#FFC20A', '#0C7BDC', '#E66100', '#5D3A9B'])
+    # yellow = #f4b400, blue = #4285f4, red = #db4437, green = #0f9d58, grey = #bebdbe
+    # yellow = #FFC20A, blue = #0C7BDC, orange = #E66100, purple = #5D3A9B
+    labelmap = np.array(["WW", "WM", "MW", "MM"])
     # WW, WM, MW, MM
-    plt.scatter(data["x_vals"], data["y_vals"], s=100, c=colormap[data["categories"]])
-    plt.xlabel("Random")
+    # plt.scatter(data["x_vals"], data["y_vals"], s=100, c=colormap[data["categories"]])
+    i = 3
+    for each in data:
+        print(labelmap[i], len(data[i]["y_vals"]))
+        plt.scatter(data[i]["x_vals"], data[i]["y_vals"], color=colormap[i], label=labelmap[i])
+        i -= 1
+    plt.xlabel("Year")
     plt.ylabel("Percentage of Votes")
+    plt.text(2, 0, "Tallies of Races: \n(AvB: A won against B) \nMvM 287 \nMvW 57 \nWvM 40 \nWvW 15")
+    plt.legend()
+    plt.title("Percentage of Vote with Time")
     plt.show()
-    return percentages
+    with open('stats.json', 'w') as outfile:
+        json.dump(data, outfile, indent=2)
+
+    # return percentages
 
 def format_num(num):
     num = num * 1000
@@ -180,8 +201,8 @@ if __name__ == '__main__':
     # color value (0=no women, 1=woman won, 2=woman lost, 3=both women
     # comp_stats = competition_stats(all_election_years)
     # cand_stats = get_candidate_gender_makeup(all_election_years)
-    # incumbent_stats = get_incumbent_winners(all_election_years)
-    election_stats = election_stats(all_election_years)
+    incumbent_stats = get_incumbent_winners(all_election_years)
+    # election_stats = election_stats(all_election_years)
 
-    jsonstr = json.dumps(election_stats, indent=2)
+    jsonstr = json.dumps(incumbent_stats, indent=2)
     print(jsonstr)

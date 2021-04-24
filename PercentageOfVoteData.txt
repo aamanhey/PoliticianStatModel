@@ -1,0 +1,1777 @@
+(base) 10-240-217-99:statistics macintosh$ python main.py
+	 1990 Alabama
+		 I
+		 Howell Thomas Heflin Alabama D 0
+		 Howell Heflin  Alabama Democratic 0
+		 William J. Cabaniss  Alabama Republican 0
+	 1990 Alaska
+		 I
+		 Ted F. Stevens Alaska R 0
+		 Ted Stevens  Alaska Republican 0
+		 Michael Beasley  Alaska Democratic 0
+	 1990 Arkansas
+		 I
+		 David Hampton Pryor Arkansas D 0
+		 David Pryor  Arkansas Democratic 0
+		 No additional candidates
+	 1990 Colorado
+		 Hank Brown  Colorado Republican 0
+		 Josie Heath  Colorado Democratic 1
+	 1990 Delaware
+		 Joe Biden  Delaware Democratic 0
+		 M. Jane Brady  Delaware Republican 1
+	 1990 Georgia
+		 Sam Nunn  Georgia Democratic 0
+		 No additional candidates
+	 1990 Idaho
+		 Larry Craig  Idaho Republican 0
+		 Ron J. Twilegar  Idaho Democratic 0
+	 1990 Illinois
+		 I
+		 Paul Martin Simon Illinois D 0
+		 Paul Simon  Illinois Democratic 0
+		 Lynn Morley Martin  Illinois Republican 1
+	 1990 Iowa
+		 I
+		 Tom Harkin Iowa D 0
+		 Tom Harkin  Iowa Democratic 0
+		 Tom Tauke  Iowa Republican 0
+	 1990 Kansas
+		 I
+		 Nancy Landon Kassebaum Kansas R 1
+		 Nancy Kassebaum  Kansas Republican 1
+		 Dick Williams  Kansas Democratic 1
+	 1990 Kentucky
+		 I
+		 Mitch McConnell Kentucky R 0
+		 Mitch McConnell  Kentucky Republican 0
+		 Harvey I. Sloane  Kentucky Democratic 0
+	 1990 Louisiana
+		 J. Bennett Johnston  Louisiana Democratic 0
+		 David Duke  Louisiana Republican 0
+	 1990 Maine
+		 I
+		 William Sebastian Cohen Maine R 0
+		 William Cohen  Maine Republican 0
+		 Neil Rolde  Maine Democratic 0
+	 1990 Massachusetts
+		 I
+		 John Kerry Massachusetts D 0
+		 John Kerry  Massachusetts Democratic 0
+		 Jim Rappaport  Massachusetts Republican 0
+	 1990 Michigan
+		 I
+		 Carl Levin Michigan D 0
+		 Carl Levin  Michigan Democratic 0
+		 Bill Schuette  Michigan Republican 0
+	 1990 Minnesota
+		 Paul Wellstone  Minnesota Democratic 0
+		 Rudy Boschwitz  Minnesota Republican 0
+	 1990 Mississippi
+		 I
+		 Thad Cochran Mississippi R 0
+		 Thad Cochran  Mississippi Republican 0
+		 No additional candidates
+	 1990 Montana
+		 I
+		 Max Baucus Montana D 0
+		 Max Baucus  Montana Democratic 0
+		 Allen Kolstad  Montana Republican 0
+	 1990 Nebraska
+		 I
+		 J. James Exon Nebraska D 0
+		 J. James Exon  Nebraska Democratic 0
+		 Hal Daub  Nebraska Republican 0
+	 1990 New Hampshire
+		 Bob Smith  New Hampshire Republican 0
+		 John A. Durkin  New Hampshire Democratic 0
+	 1990 New Jersey
+		 Bill Bradley  New Jersey Democratic 0
+		 Christine Todd Whitman  New Jersey Republican 1
+	 1990 New Mexico
+		 I
+		 Pete V. Domenici New Mexico R 0
+		 Pete Domenici  New Mexico Republican 0
+		 Tom R. Benavides  New Mexico Democratic 0
+	 1990 North Carolina
+		 I
+		 Jesse Helms North Carolina R 0
+		 Jesse Helms  North Carolina Republican 0
+		 Harvey Gantt  North Carolina Democratic 0
+	 1990 Oklahoma
+		 I
+		 David Lyle Boren Oklahoma D 0
+		 David Boren  Oklahoma Democratic 0
+		 Stephen Jones  Oklahoma Republican 0
+	 1990 Oregon
+		 I
+		 Mark Odom Hatfield Oregon R 0
+		 Mark Hatfield  Oregon Republican 0
+		 Harry Lonsdale  Oregon Democratic 0
+	 1990 Rhode Island
+		 I
+		 Claiborne de Borda Pell Rhode Island D 0
+		 Claiborne Pell  Rhode Island Democratic 0
+		 Claudine Schneider  Rhode Island Republican 1
+	 1990 South Carolina
+		 I
+		 Strom Thurmond South Carolina R 0
+		 Strom Thurmond  South Carolina Republican 0
+		 Bob Cunningham  South Carolina Democratic 0
+	 1990 South Dakota
+		 I
+		 Larry Lee Pressler South Dakota R 0
+		 Larry Pressler  South Dakota Republican 0
+		 Ted Muenster  South Dakota Democratic 0
+	 1990 Tennessee
+		 Al Gore  Tennessee Democratic 0
+		 William R. Hawkins  Tennessee Republican 0
+	 1990 Texas
+		 I
+		 Phil Gramm Texas R 0
+		 Phil Gramm  Texas Republican 0
+		 Hugh Parmer  Texas Democratic 0
+	 1990 Virginia
+		 I
+		 John W. Warner Virginia R 0
+		 John Warner  Virginia Republican 0
+		 Nancy B. Spannaus  Virginia Independent 1
+	 1990 West Virginia
+		 Jay Rockefeller  West Virginia Democratic 0
+		 John Yoder  West Virginia Republican 0
+	 1990 Wyoming
+		 I
+		 Alan Kooi Simpson Wyoming R 0
+		 Alan Simpson  Wyoming Republican 0
+		 Kathy Helling  Wyoming Democratic 1
+	 1992 Alabama
+		 I
+		 Richard C. Shelby Alabama D 0
+		 Richard Shelby  Alabama Democratic 0
+		 Richard Sellars  Alabama Republican 0
+	 1992 Alaska
+		 I
+		 Frank H. Murkowski Alaska R 0
+		 Frank Murkowski  Alaska Republican 0
+		 Tony Smith  Alaska Democratic 0
+	 1992 Arizona
+		 I
+		 John McCain Arizona R 0
+		 John McCain  Arizona Republican 0
+		 Claire Sargent  Arizona Democratic 1
+	 1992 Arkansas
+		 I
+		 Dale Bumpers Arkansas D 0
+		 Dale Bumpers  Arkansas Democratic 0
+		 Mike Huckabee  Arkansas Republican 0
+	 1992 California
+		 I
+		 Alan Cranston California D 0
+		 Barbara Boxer  California Democratic 1
+		 Bruce Herschensohn  California Republican 0
+	 1992 Colorado
+		 Ben Nighthorse Campbell  Colorado Democratic 0
+		 Terry Considine  Colorado Republican 0
+	 1992 Connecticut
+		 Chris Dodd  Connecticut Democratic 0
+		 Brook Johnson  Connecticut Republican 1
+	 1992 Florida
+		 I
+		 Bob Graham Florida D 0
+		 Bob Graham  Florida Democratic 0
+		 James W. Grant  Florida Republican 0
+	 1992 Georgia
+		 I
+		 Wyche Fowler Georgia D 0
+		 Paul Coverdell  Georgia Republican 0
+		 Wyche Fowler  Georgia Democratic 0
+	 1992 Hawaii
+		 I
+		 Daniel K. Inouye Hawaii D 0
+		 Daniel Inouye  Hawaii Democratic 0
+		 Rick Reed  Hawaii Republican 0
+	 1992 Idaho
+		 Dirk Kempthorne  Idaho Republican 0
+		 Richard H. Stallings  Idaho Democratic 0
+	 1992 Illinois
+		 Carol Moseley Braun  Illinois Democratic 1
+		 Richard S. Williamson  Illinois Republican 0
+	 1992 Indiana
+		 Dan Coats  Indiana Republican 0
+		 Joe Hogsett  Indiana Democratic 0
+	 1992 Iowa
+		 Chuck Grassley  Iowa Republican 0
+		 Jean Hall Lloyd-Jones  Iowa Democratic 0
+	 1992 Kansas
+		 Bob Dole  Kansas Republican 0
+		 Gloria O'Dell  Kansas Democratic 1
+	 1992 Kentucky
+		 I
+		 Wendell H. Ford Kentucky D 0
+		 Wendell Ford  Kentucky Democratic 0
+		 David L. Williams  Kentucky Republican 0
+	 1992 Louisiana
+		 I
+		 John B. Breaux Louisiana D 0
+		 John Breaux  Louisiana Democratic 0
+		 Jon Khachaturian  Louisiana Independent 0
+	 1992 Maryland
+		 I
+		 Barbara A. Mikulski Maryland D 1
+		 Barbara Mikulski  Maryland Democratic 1
+		 Alan Keyes  Maryland Republican 0
+	 1992 Missouri
+		 Christopher "Kit" Bond  Missouri Republican 0
+		 Geri Rothman-Serot  Missouri Democratic 1
+	 1992 Nevada
+		 I
+		 Harry Reid Nevada D 0
+		 Harry Reid  Nevada Democratic 0
+		 Demar Dahl  Nevada Republican 0
+	 1992 New Hampshire
+		 I
+		 Warren Bruce Rudman New Hampshire R 0
+		 Judd Gregg  New Hampshire Republican 0
+		 John Rauh  New Hampshire Democratic 0
+	 1992 New York
+		 Al D'Amato  New York Republican 0
+		 Robert Abrams  New York Democratic 0
+	 1992 North Carolina
+		 Lauch Faircloth  North Carolina Republican 0
+		 Terry Sanford  North Carolina Democratic 0
+	 1992 North Dakota
+		 I
+		 Kent Conrad North Dakota D 0
+		 Byron Dorgan  North Dakota Democratic 0
+		 Steve Sydness  North Dakota Republican 0
+	 1992 Ohio
+		 I
+		 John H. Glenn Ohio D 0
+		 John Glenn  Ohio Democratic 0
+		 Mike DeWine  Ohio Republican 0
+	 1992 Oklahoma
+		 I
+		 Don Nickles Oklahoma R 0
+		 Don Nickles  Oklahoma Republican 0
+		 Steve Lewis  Oklahoma Democratic 0
+	 1992 Oregon
+		 Bob Packwood  Oregon Republican 0
+		 Les AuCoin  Oregon Democratic 0
+	 1992 Pennsylvania
+		 I
+		 Arlen Specter Pennsylvania R 0
+		 Arlen Specter  Pennsylvania Republican 0
+		 Lynn Yeakel  Pennsylvania Democratic 1
+	 1992 South Carolina
+		 Fritz Hollings  South Carolina Democratic 0
+		 Thomas F. Hartnett  South Carolina Republican 0
+	 1992 South Dakota
+		 Tom Daschle  South Dakota Democratic 0
+		 Charlene Haar  South Dakota Republican 1
+	 1992 Utah
+		 Bob Bennett  Utah Republican 0
+		 Wayne Owens  Utah Democratic 0
+	 1992 Vermont
+		 I
+		 Patrick J. Leahy Vermont D 0
+		 Patrick Leahy  Vermont Democratic 0
+		 Jim Douglas  Vermont Republican 0
+	 1992 Washington
+		 Patty Murray  Washington Democratic 1
+		 Rod Chandler  Washington Republican 0
+	 1992 Wisconsin
+		 Russ Feingold  Wisconsin Democratic 0
+		 Bob Kasten  Wisconsin Republican 0
+	 1994 Arizona
+		 I
+		 Dennis Webster DeConcini Arizona D 0
+		 Jon Kyl  Arizona Republican 0
+		 Sam Coppersmith  Arizona Democratic 0
+	 1994 California
+		 I
+		 Dianne Feinstein California D 1
+		 Dianne Feinstein  California Democratic 1
+		 Michael Huffington  California Republican 0
+	 1994 Connecticut
+		 Joe Lieberman  Connecticut Democratic 0
+		 Jerry Labriola  Connecticut Republican 0
+	 1994 Delaware
+		 I
+		 William V. Roth Delaware R 0
+		 William Roth  Delaware Republican 0
+		 Charles Oberly  Delaware Democratic 0
+	 1994 Florida
+		 Connie Mack III  Florida Republican 0
+		 Hugh Rodham  Florida Democratic 0
+	 1994 Hawaii
+		 I
+		 Daniel K. Akaka Hawaii D 0
+		 Daniel Akaka  Hawaii Democratic 0
+		 Maria Hustace  Hawaii Republican 1
+	 1994 Indiana
+		 I
+		 Richard G. Lugar Indiana R 0
+		 Richard Lugar  Indiana Republican 0
+		 Jim Jontz  Indiana Democratic 0
+	 1994 Maine
+		 Olympia Snowe  Maine Republican 1
+		 Thomas Andrews  Maine Democratic 0
+	 1994 Maryland
+		 I
+		 Paul S. Sarbanes Maryland D 0
+		 Paul Sarbanes  Maryland Democratic 0
+		 Bill Brock  Maryland Republican 0
+	 1994 Massachusetts
+		 Ted Kennedy  Massachusetts Democratic 0
+		 Mitt Romney  Massachusetts Republican 0
+	 1994 Michigan
+		 Spencer Abraham  Michigan Republican 0
+		 Bob Carr  Michigan Democratic 0
+	 1994 Minnesota
+		 I
+		 David Ferdinand Durenberger Minnesota R 0
+		 Rod Grams  Minnesota Republican 1
+		 Ann Wynia  Minnesota DFL 1
+	 1994 Mississippi
+		 I
+		 Trent Lott Mississippi R 0
+		 Trent Lott  Mississippi Republican 0
+		 Ken Harper  Mississippi Democratic 0
+	 1994 Missouri
+		 I
+		 John Claggett Danforth Missouri R 0
+		 John Ashcroft  Missouri Republican 0
+		 Alan Wheat  Missouri Democratic 0
+	 1994 Montana
+		 I
+		 Conrad Burns Montana R 0
+		 Conrad Burns  Montana Republican 0
+		 Jack Mudd  Montana Democratic 0
+	 1994 Nebraska
+		 Bob Kerrey  Nebraska Democratic 0
+		 Jan Stoney  Nebraska Republican 1
+	 1994 Nevada
+		 Richard Bryan  Nevada Democratic 0
+		 Hal Furman  Nevada Republican 0
+	 1994 New Jersey
+		 I
+		 Frank R. Lautenberg New Jersey D 0
+		 Frank Lautenberg  New Jersey Democratic 0
+		 Chuck Haytaian  New Jersey Republican 0
+	 1994 New Mexico
+		 I
+		 Jeff Bingaman New Mexico D 0
+		 Jeff Bingaman  New Mexico Democratic 0
+		 Colin McMillan  New Mexico Republican 0
+	 1994 New York
+		 Daniel Patrick Moynihan  New York Democratic 0
+		 Bernadette Castro  New York Republican 1
+	 1994 North Dakota
+		 I
+		 Kent Conrad North Dakota D 0
+		 Kent Conrad  North Dakota Democratic 0
+		 Ben Clayburgh  North Dakota Republican 0
+	 1994 Ohio
+		 I
+		 Howard Morton Metzenbaum Ohio D 0
+		 Mike DeWine  Ohio Republican 0
+		 Joel Hyatt  Ohio Democratic 0
+	 1994 Pennsylvania
+		 I
+		 Harris Wofford Pennsylvania D 0
+		 Rick Santorum  Pennsylvania Republican 0
+		 Harris Wofford  Pennsylvania Democratic 0
+	 1994 Rhode Island
+		 I
+		 John H. Chafee Rhode Island R 0
+		 John Chafee  Rhode Island Republican 0
+		 Linda Kushner  Rhode Island Democratic 1
+	 1994 Tennessee
+		 Bill Frist  Tennessee Republican 0
+		 Jim Sasser  Tennessee Democratic 0
+	 1994 Texas
+		 Kay Bailey Hutchison  Texas Republican 1
+		 Richard W. Fisher  Texas Democratic 0
+	 1994 Utah
+		 I
+		 Orrin G. Hatch Utah R 0
+		 Orrin Hatch  Utah Republican 0
+		 Patrick Shea  Utah Democratic 0
+	 1994 Vermont
+		 Jim Jeffords  Vermont Republican 0
+		 Jan Backus  Vermont Democratic 1
+	 1994 Virginia
+		 Chuck Robb  Virginia Democratic 0
+		 Oliver North  Virginia Republican 0
+	 1994 Washington
+		 I
+		 Slade Gorton Washington R 0
+		 Slade Gorton  Washington Republican 0
+		 Ron Sims  Washington Democratic 0
+	 1994 West Virginia
+		 I
+		 Robert C. Byrd West Virginia D 0
+		 Robert Byrd  West Virginia Democratic 0
+		 Stanley L. Klos  West Virginia Republican 0
+	 1994 Wisconsin
+		 I
+		 Herb Kohl Wisconsin D 0
+		 Herb Kohl  Wisconsin Democratic 0
+		 Robert Welch  Wisconsin Republican 0
+	 1994 Wyoming
+		 I
+		 Malcolm Wallop Wyoming R 0
+		 Craig L. Thomas  Wyoming Republican 0
+		 Mike Sullivan  Wyoming Democratic 0
+	 1996 Alabama
+		 I
+		 Howell Thomas Heflin Alabama D 0
+		 Jeff Sessions  Alabama Republican 0
+		 Roger Bedford  Alabama Democratic 0
+	 1996 Alaska
+		 I
+		 Ted F. Stevens Alaska R 0
+		 Ted Stevens  Alaska Republican 0
+		 Jeff Whittaker  Alaska Green 0
+	 1996 Arkansas
+		 I
+		 David Hampton Pryor Arkansas D 0
+		 Tim Hutchinson  Arkansas Republican 0
+		 Winston Bryant  Arkansas Democratic 0
+	 1996 Colorado
+		 I
+		 Hank Brown Colorado R 0
+		 Wayne Allard  Colorado Republican 0
+		 Tom Strickland  Colorado Democratic 0
+	 1996 Delaware
+		 Joe Biden  Delaware Democratic 0
+		 Raymond J. Clatworthy  Delaware Republican 0
+	 1996 Georgia
+		 Max Cleland  Georgia Democratic 0
+		 Guy Millner  Georgia Republican 0
+	 1996 Idaho
+		 I
+		 Larry E. Craig Idaho R 0
+		 Larry Craig  Idaho Republican 0
+		 Walt Minnick  Idaho Democratic 0
+	 1996 Illinois
+		 I
+		 Paul Martin Simon Illinois D 0
+		 Dick Durbin  Illinois Democratic 0
+		 Al Salvi  Illinois Republican 0
+	 1996 Iowa
+		 I
+		 Tom Harkin Iowa D 0
+		 Tom Harkin  Iowa Democratic 0
+		 Jim Ross Lightfoot  Iowa Republican 0
+	 1996 Kansas
+		 I
+		 Nancy Landon Kassebaum Kansas R 1
+		 Pat Roberts  Kansas Republican 0
+		 Sally Thompson  Kansas Democratic 1
+	 1996 Kentucky
+		 I
+		 Mitch McConnell Kentucky R 0
+		 Mitch McConnell  Kentucky Republican 0
+		 Steve Beshear  Kentucky Democratic 0
+	 1996 Louisiana
+		 Mary Landrieu  Louisiana Democratic 1
+		 Woody Jenkins  Louisiana Republican 0
+	 1996 Maine
+		 I
+		 William Sebastian Cohen Maine R 0
+		 Susan Collins  Maine Republican 1
+		 Joseph E. Brennan  Maine Democratic 0
+	 1996 Massachusetts
+		 I
+		 John Kerry Massachusetts D 0
+		 John Kerry  Massachusetts Democratic 0
+		 William Weld  Massachusetts Republican 0
+	 1996 Michigan
+		 I
+		 Carl Levin Michigan D 0
+		 Carl Levin  Michigan Democratic 0
+		 Ronna Romney  Michigan Republican 1
+	 1996 Minnesota
+		 I
+		 Paul D. Wellstone Minnesota D 0
+		 Paul Wellstone  Minnesota Democratic–Farmer–Labor 0
+		 Rudy Boschwitz  Minnesota Republican 0
+	 1996 Mississippi
+		 I
+		 Thad Cochran Mississippi R 0
+		 Thad Cochran  Mississippi Republican 0
+		 James Hunt  Mississippi Democratic 0
+	 1996 Montana
+		 I
+		 Max Baucus Montana D 0
+		 Max Baucus  Montana Democratic 0
+		 Denny Rehberg  Montana Republican 0
+	 1996 Nebraska
+		 Chuck Hagel  Nebraska Republican 0
+		 Ben Nelson  Nebraska Democratic 0
+	 1996 New Hampshire
+		 I
+		 Bob Smith New Hampshire R 0
+		 Bob Smith  New Hampshire Republican 0
+		 Dick Swett  New Hampshire Democratic 0
+	 1996 New Jersey
+		 Robert Torricelli  New Jersey Democratic 0
+		 Dick Zimmer  New Jersey Republican 0
+	 1996 New Mexico
+		 I
+		 Pete V. Domenici New Mexico R 0
+		 Pete Domenici  New Mexico Republican 0
+		 Art Trujillo  New Mexico Democratic 0
+	 1996 North Carolina
+		 I
+		 Jesse Helms North Carolina R 0
+		 Jesse Helms  North Carolina Republican 0
+		 Harvey Gantt  North Carolina Democratic 0
+	 1996 Oklahoma
+		 Jim Inhofe  Oklahoma Republican 0
+		 James Boren  Oklahoma Democratic 0
+	 1996 Oregon
+		 I
+		 Mark Odom Hatfield Oregon R 0
+		 Gordon H. Smith  Oregon Republican 0
+		 Tom Bruggere  Oregon Democratic 0
+	 1996 Rhode Island
+		 I
+		 Claiborne de Borda Pell Rhode Island D 0
+		 Jack Reed  Rhode Island Democratic 0
+		 Nancy J. Mayer  Rhode Island Republican 1
+	 1996 South Carolina
+		 I
+		 Strom Thurmond South Carolina R 0
+		 Strom Thurmond  South Carolina Republican 0
+		 Elliot Close  South Carolina Democratic 0
+	 1996 South Dakota
+		 I
+		 Larry Lee Pressler South Dakota R 0
+		 Tim Johnson  South Dakota Democratic 0
+		 Larry Pressler  South Dakota R 0
+	 1996 Tennessee
+		 I
+		 Fred Thompson Tennessee R 0
+		 Fred Thompson  Tennessee Republican 0
+		 J. Houston Gordon  Tennessee Democratic 0
+	 1996 Texas
+		 I
+		 Phil Gramm Texas R 0
+		 Phil Gramm  Texas Republican 0
+		 Victor Morales  Texas Democratic 0
+	 1996 Virginia
+		 I
+		 John W. Warner Virginia R 0
+		 John Warner  Virginia Republican 0
+		 Mark Warner  Virginia Democratic 0
+	 1996 West Virginia
+		 Jay Rockefeller  West Virginia Democratic 0
+		 Betty Burks  West Virginia Republican 1
+	 1996 Wyoming
+		 Mike Enzi  Wyoming Republican 0
+		 Kathy Karpan  Wyoming Democratic 1
+	 1998 Alabama
+		 I
+		 Richard C. Shelby Alabama R 0
+		 Richard Shelby  Alabama Republican 0
+		 Clayton Suddith  Alabama Democratic 0
+	 1998 Alaska
+		 I
+		 Frank H. Murkowski Alaska R 0
+		 Frank Murkowski  Alaska Republican 0
+		 Joe Sonneman  Alaska Democratic 0
+	 1998 Arizona
+		 I
+		 John McCain Arizona R 0
+		 John McCain  Arizona Republican 0
+		 Ed Ranger  Arizona Democratic 0
+	 1998 Arkansas
+		 I
+		 Dale Bumpers Arkansas D 0
+		 Blanche Lincoln  Arkansas Democratic 0
+		 Fay Boozman  Arkansas Republican 0
+	 1998 California
+		 I
+		 Barbara Boxer California D 1
+		 Barbara Boxer  California Democratic 1
+		 Matt Fong  California Republican 0
+	 1998 Colorado
+		 Ben Nighthorse Campbell  Colorado Republican 0
+		 Dottie Lamm  Colorado Democratic 1
+	 1998 Connecticut
+		 Chris Dodd  Connecticut Democratic 0
+		 Gary Franks  Connecticut Republican 0
+	 1998 Florida
+		 I
+		 Bob Graham Florida D 0
+		 Bob Graham  Florida Democratic 0
+		 Charlie Crist  Florida Republican 0
+	 1998 Georgia
+		 I
+		 Paul Coverdell Georgia R 0
+		 Paul Coverdell  Georgia Republican 0
+		 Michael Coles  Georgia Democratic 0
+	 1998 Hawaii
+		 I
+		 Daniel K. Inouye Hawaii D 0
+		 Daniel Inouye  Hawaii Democratic 0
+		 Crystal Young  Hawaii Republican 1
+	 1998 Idaho
+		 I
+		 Dirk Kempthorne Idaho R 0
+		 Mike Crapo  Idaho Republican 0
+		 Bill Mauk  Idaho Democratic 0
+	 1998 Illinois
+		 Peter Fitzgerald  Illinois Republican 0
+		 Carol Moseley Braun  Illinois Democratic 1
+	 1998 Indiana
+		 Evan Bayh  Indiana Democratic 0
+		 Paul Helmke  Indiana Republican 0
+	 1998 Iowa
+		 Chuck Grassley  Iowa Republican 0
+		 David Osterberg  Iowa Democratic 0
+	 1998 Kansas
+		 I
+		 Sam Brownback Kansas R 0
+		 Sam Brownback  Kansas Republican 0
+		 Paul Feleciano Jr.  Kansas Democratic 0
+	 1998 Kentucky
+		 I
+		 Wendell H. Ford Kentucky D 0
+		 Jim Bunning  Kentucky Republican 0
+		 Scotty Baesler  Kentucky Democratic 0
+	 1998 Louisiana
+		 I
+		 John B. Breaux Louisiana D 0
+		 John Breaux  Louisiana Democratic 0
+		 Jim Donelon  Louisiana Republican 0
+	 1998 Maryland
+		 I
+		 Barbara A. Mikulski Maryland D 1
+		 Barbara Mikulski  Maryland Democratic 1
+		 Ross Pierpont  Maryland Republican 0
+	 1998 Missouri
+		 Kit Bond  Missouri Republican 0
+		 Jay Nixon  Missouri Democratic 0
+	 1998 Nevada
+		 I
+		 Harry Reid Nevada D 0
+		 Harry Reid  Nevada Democratic 0
+		 John Ensign  Nevada Republican 0
+	 1998 New Hampshire
+		 I
+		 Judd Gregg New Hampshire R 0
+		 Judd Gregg  New Hampshire Republican 0
+		 George Condodemetraky  New Hampshire Democratic 0
+	 1998 New York
+		 Chuck Schumer  New York Democratic 0
+		 Al D'Amato  New York Republican 0
+	 1998 North Carolina
+		 I
+		 Lauch Faircloth North Carolina R 0
+		 John Edwards  North Carolina Democratic 0
+		 Lauch Faircloth  North Carolina Republican 0
+	 1998 North Dakota
+		 I
+		 Byron L. Dorgan North Dakota D 0
+		 Byron Dorgan  North Dakota Democratic 0
+		 Donna Nalewaja  North Dakota Republican 1
+	 1998 Ohio
+		 I
+		 John H. Glenn Ohio D 0
+		 George Voinovich  Ohio Republican 0
+		 Mary Boyle  Ohio Democratic 0
+	 1998 Oklahoma
+		 I
+		 Don Nickles Oklahoma R 0
+		 Don Nickles  Oklahoma Republican 0
+		 Don Carroll  Oklahoma Democratic 0
+	 1998 Oregon
+		 I
+		 Ron Wyden Oregon D 0
+		 Ron Wyden  Oregon Democratic 0
+		 John Lim  Oregon Republican 0
+	 1998 Pennsylvania
+		 I
+		 Arlen Specter Pennsylvania R 0
+		 Arlen Specter  Pennsylvania Republican 0
+		 Bill Lloyd  Pennsylvania Democratic 0
+	 1998 South Carolina
+		 I
+		 Ernest F. Hollings South Carolina D 0
+		 Ernest Hollings  South Carolina Democratic 0
+		 Bob Inglis  South Carolina Republican 0
+	 1998 South Dakota
+		 Tom Daschle  South Dakota Democratic 0
+		 Ron Schmidt  South Dakota Republican 0
+	 1998 Utah
+		 Bob Bennett  Utah Republican 0
+		 Scott Leckman  Utah Democratic 0
+	 1998 Vermont
+		 I
+		 Patrick J. Leahy Vermont D 0
+		 Patrick Leahy  Vermont Democratic 0
+		 Fred Tuttle  Vermont Republican 0
+	 1998 Washington
+		 I
+		 Patty Murray Washington D 1
+		 Patty Murray  Washington Democratic 1
+		 Linda Smith  Washington Republican 1
+	 1998 Wisconsin
+		 I
+		 Russ Feingold Wisconsin D 0
+		 Russ Feingold  Wisconsin Democratic 0
+		 Mark Neumann  Wisconsin Republican 0
+	 2000 Arizona
+		 I
+		 Jon Kyl Arizona R 0
+		 Jon Kyl  Arizona Republican 0
+		 William Toel  Arizona Independent 0
+	 2000 California
+		 I
+		 Dianne Feinstein California D 1
+		 Dianne Feinstein  California Democratic 1
+		 Tom Campbell  California Republican 0
+	 2000 Connecticut
+		 Joe Lieberman  Connecticut Democratic 0
+		 Philip Giordano  Connecticut Republican 0
+	 2000 Delaware
+		 I
+		 William V. Roth Delaware R 0
+		 Tom Carper  Delaware Democratic 0
+		 William Roth  Delaware Republican 0
+	 2000 Florida
+		 Bill Nelson  Florida Democratic 0
+		 Bill McCollum  Florida Republican 0
+	 2000 Hawaii
+		 I
+		 Daniel K. Akaka Hawaii D 0
+		 Daniel Akaka  Hawaii Democratic 0
+		 John Carroll  Hawaii Republican 0
+	 2000 Indiana
+		 I
+		 Richard G. Lugar Indiana R 0
+		 Richard Lugar  Indiana Republican 0
+		 David Johnson  Indiana Democratic 0
+	 2000 Maine
+		 I
+		 Olympia J. Snowe Maine R 1
+		 Olympia Snowe  Maine Republican 1
+		 Mark Lawrence  Maine Democratic 0
+	 2000 Maryland
+		 I
+		 Paul S. Sarbanes Maryland D 0
+		 Paul Sarbanes  Maryland Democratic 0
+		 Paul Rappaport  Maryland Republican 0
+	 2000 Massachusetts
+		 Ted Kennedy  Massachusetts Democratic 0
+		 Jack E. Robinson III  Massachusetts Republican 0
+	 2000 Michigan
+		 I
+		 Spencer Abraham Michigan R 0
+		 Debbie Stabenow  Michigan Democratic 1
+		 Spencer Abraham  Michigan Republican 0
+	 2000 Minnesota
+		 I
+		 Rod Grams Minnesota R 0
+		 Mark Dayton  Minnesota Democratic 0
+		 Rod Grams  Minnesota Republican 0
+	 2000 Mississippi
+		 I
+		 Trent Lott Mississippi R 0
+		 Trent Lott  Mississippi Republican 0
+		 Troy Brown  Mississippi Democratic 0
+	 2000 Missouri
+		 I
+		 John Ashcroft Missouri R 0
+		 Mel Carnahan  Missouri Democratic 0
+		 John Ashcroft  Missouri Republican 0
+	 2000 Montana
+		 I
+		 Conrad Burns Montana R 0
+		 Conrad Burns  Montana Republican 0
+		 Brian Schweitzer  Montana Democratic 0
+	 2000 Nebraska
+		 Ben Nelson  Nebraska Democratic 0
+		 Don Stenberg  Nebraska Republican 0
+	 2000 Nevada
+		 I
+		 Richard H. Bryan Nevada D 0
+		 John Ensign  Nevada Republican 0
+		 Edward M. Bernstein  Nevada Democratic 0
+	 2000 New Jersey
+		 I
+		 Frank R. Lautenberg New Jersey D 0
+		 Jon Corzine  New Jersey Democratic 0
+		 Bob Franks  New Jersey Republican 0
+	 2000 New Mexico
+		 I
+		 Jeff Bingaman New Mexico D 0
+		 Jeff Bingaman  New Mexico Democratic 0
+		 William T. Redmond  New Mexico Republican 0
+	 2000 New York
+		 Hillary Clinton  New York Democratic 1
+		 Rick Lazio  New York Republican 0
+	 2000 North Dakota
+		 I
+		 Kent Conrad North Dakota D 0
+		 Kent Conrad  North Dakota Democratic 0
+		 Duane Sand  North Dakota Republican 0
+	 2000 Ohio
+		 Mike DeWine  Ohio Republican 0
+		 Ted Celeste  Ohio Democratic 0
+	 2000 Pennsylvania
+		 Rick Santorum  Pennsylvania Republican 0
+		 Ron Klink  Pennsylvania Democratic 0
+	 2000 Rhode Island
+		 I
+		 Lincoln D. Chafee Rhode Island R 0
+		 Lincoln Chafee  Rhode Island Republican 0
+		 Robert Weygand  Rhode Island Democratic 0
+	 2000 Tennessee
+		 Bill Frist  Tennessee Republican 0
+		 Jeff Clark  Tennessee Democratic 0
+	 2000 Texas
+		 Kay Bailey Hutchison  Texas Republican 1
+		 Gene Kelly  Texas Democratic 0
+	 2000 Utah
+		 I
+		 Orrin G. Hatch Utah R 0
+		 Orrin Hatch  Utah Republican 0
+		 Scott Howell  Utah Democratic 0
+	 2000 Vermont
+		 Jim Jeffords  Vermont Republican 0
+		 Ed Flanagan  Vermont Democratic 0
+	 2000 Virginia
+		 George Allen  Virginia Republican 0
+		 Chuck Robb  Virginia Democratic 0
+	 2000 Washington
+		 I
+		 Slade Gorton Washington R 0
+		 Maria Cantwell  Washington Democratic 1
+		 Slade Gorton  Washington Republican 0
+	 2000 West Virginia
+		 I
+		 Robert C. Byrd West Virginia D 0
+		 Robert Byrd  West Virginia Democratic 0
+		 David T. Gallaher  West Virginia Republican 0
+	 2000 Wisconsin
+		 I
+		 Herb Kohl Wisconsin D 0
+		 Herb Kohl  Wisconsin Democratic 0
+		 John Gillespie  Wisconsin Republican 0
+	 2000 Wyoming
+		 Craig L. Thomas  Wyoming Republican 0
+		 Mel Logan  Wyoming Democratic 0
+	 2002 Alabama
+		 I
+		 Jeff Sessions Alabama R 0
+		 Jeff Sessions  Alabama Republican 0
+		 Susan Parker  Alabama Democratic 1
+	 2002 Alaska
+		 I
+		 Ted F. Stevens Alaska R 0
+		 Ted Stevens  Alaska Republican 0
+		 Frank J. Vondersaar  Alaska Democratic 0
+	 2002 Arkansas
+		 I
+		 Tim Hutchinson Arkansas R 0
+		 Mark Pryor  Arkansas Democratic 0
+		 Tim Hutchinson  Arkansas Republican 0
+	 2002 Colorado
+		 I
+		 Wayne A. Allard Colorado R 0
+		 Wayne Allard  Colorado Republican 0
+		 Tom Strickland  Colorado Democratic 0
+	 2002 Delaware
+		 Joe Biden  Delaware Democratic 0
+		 Raymond J. Clatworthy  Delaware Republican 0
+	 2002 Georgia
+		 I
+		 Max Cleland Georgia D 0
+		 Saxby Chambliss  Georgia Republican 0
+		 Max Cleland  Georgia Democratic 0
+	 2002 Idaho
+		 I
+		 Larry E. Craig Idaho R 0
+		 Larry Craig  Idaho Republican 0
+		 Alan Blinken  Idaho Democratic 0
+	 2002 Illinois
+		 Dick Durbin  Illinois Democratic 0
+		 Jim Durkin  Illinois Republican 0
+	 2002 Iowa
+		 I
+		 Tom Harkin Iowa D 0
+		 Tom Harkin  Iowa Democratic 0
+		 Greg Ganske  Iowa Republican 0
+	 2002 Kansas
+		 I
+		 Pat Roberts Kansas R 0
+		 Pat Roberts  Kansas Republican 0
+		 Steven A. Rosile  Kansas Libertarian 0
+	 2002 Kentucky
+		 I
+		 Mitch McConnell Kentucky R 0
+		 Mitch McConnell  Kentucky Republican 0
+		 Lois Combs Weinberg  Kentucky Democratic 0
+	 2002 Louisiana
+		 I
+		 Mary L. Landrieu Louisiana D 1
+		 Mary Landrieu  Louisiana Democratic 1
+		 Suzanne Haik Terrell  Louisiana Republican 1
+	 2002 Maine
+		 I
+		 Susan Collins Maine R 1
+		 Susan Collins  Maine Republican 1
+		 Chellie Pingree  Maine Democratic 1
+	 2002 Massachusetts
+		 I
+		 John Kerry Massachusetts D 0
+		 John Kerry  Massachusetts Democratic 0
+		 Michael E. Cloud  Massachusetts Libertarian 0
+	 2002 Michigan
+		 I
+		 Carl Levin Michigan D 0
+		 Carl Levin  Michigan Democratic 0
+		 Rocky Raczkowski  Michigan Republican 0
+	 2002 Minnesota
+		 I
+		 Dean Barkley Minnesota I 0
+		 Norm Coleman  Minnesota Republican 0
+		 Walter Mondale  Minnesota DFL 0
+	 2002 Mississippi
+		 I
+		 Thad Cochran Mississippi R 0
+		 Thad Cochran  Mississippi Republican 0
+		 Shawn O'Hara  Mississippi Reform 0
+	 2002 Montana
+		 I
+		 Max Baucus Montana D 0
+		 Max Baucus  Montana Democratic 0
+		 Mike Taylor  Montana Republican 0
+	 2002 Nebraska
+		 I
+		 Chuck T. Hagel Nebraska R 0
+		 Chuck Hagel  Nebraska Republican 0
+		 Charlie A. Matulka  Nebraska Democratic 0
+	 2002 New Hampshire
+		 I
+		 Bob Smith New Hampshire R 0
+		 John E. Sununu  New Hampshire Republican 0
+		 Jeanne Shaheen  New Hampshire Democratic 1
+	 2002 New Jersey
+		 I
+		 Robert G. Torricelli New Jersey D 0
+		 Frank Lautenberg  New Jersey Democratic 0
+		 Doug Forrester  New Jersey Republican 0
+	 2002 New Mexico
+		 I
+		 Pete V. Domenici New Mexico R 0
+		 Pete Domenici  New Mexico Republican 0
+		 Gloria Tristani  New Mexico Democratic 1
+	 2002 North Carolina
+		 I
+		 Jesse Helms North Carolina R 0
+		 Elizabeth Dole  North Carolina Republican 1
+		 Erskine Bowles  North Carolina Democratic 0
+	 2002 Oklahoma
+		 Jim Inhofe  Oklahoma Republican 0
+		 David Walters  Oklahoma Democratic 0
+	 2002 Oregon
+		 Gordon H. Smith  Oregon Republican 0
+		 Bill Bradbury  Oregon Democratic 0
+	 2002 Rhode Island
+		 I
+		 Jack Reed Rhode Island D 0
+		 Jack Reed  Rhode Island Democratic 0
+		 Robert Tingle  Rhode Island Republican 0
+	 2002 South Carolina
+		 I
+		 Strom Thurmond South Carolina R 0
+		 Lindsey Graham  South Carolina Republican 0
+		 Alex Sanders  South Carolina Democratic 0
+	 2002 South Dakota
+		 I
+		 Tim Johnson South Dakota D 0
+		 Tim Johnson  South Dakota Democratic 0
+		 John Thune  South Dakota Republican 0
+	 2002 Tennessee
+		 I
+		 Fred Thompson Tennessee R 0
+		 Lamar Alexander  Tennessee Republican 0
+		 Bob Clement  Tennessee Democratic 0
+	 2002 Texas
+		 I
+		 Phil Gramm Texas R 0
+		 John Cornyn  Texas Republican 0
+		 Ron Kirk  Texas Democratic 0
+	 2002 Virginia
+		 I
+		 John W. Warner Virginia R 0
+		 John Warner  Virginia Republican 0
+		 Nancy Spannaus  Virginia Independent 1
+	 2002 West Virginia
+		 Jay Rockefeller  West Virginia Democratic 0
+		 Jay Wolfe  West Virginia Republican 0
+	 2002 Wyoming
+		 Mike Enzi  Wyoming Republican 0
+		 Joyce Jansa Corcoran  Wyoming Democratic 1
+	 2006 Arizona
+		 I
+		 Jon Kyl Arizona R 0
+		 Jon Kyl  Arizona Republican 0
+		 Jim Pederson  Arizona Democratic 0
+	 2006 California
+		 I
+		 Dianne Feinstein California D 1
+		 Dianne Feinstein  California Democratic 1
+		 Dick Mountjoy  California Republican 0
+	 2006 Connecticut
+		 Joe Lieberman  Connecticut Connecticut for Lieberman 0
+		 Ned Lamont  Connecticut Democratic 0
+	 2006 Delaware
+		 Tom Carper  Delaware Democratic 0
+		 Jan Ting  Delaware Republican 1
+	 2006 Florida
+		 I
+		 Bill Nelson Florida D 0
+		 Bill Nelson  Florida Democratic 0
+		 Katherine Harris  Florida Republican 1
+	 2006 Hawaii
+		 I
+		 Daniel K. Akaka Hawaii D 0
+		 Daniel Akaka  Hawaii Democratic 0
+		 Cynthia Thielen  Hawaii Republican 1
+	 2006 Indiana
+		 I
+		 Richard G. Lugar Indiana R 0
+		 Richard Lugar  Indiana Republican 0
+		 Steve Osborn  Indiana Libertarian 0
+	 2006 Maine
+		 I
+		 Olympia J. Snowe Maine R 1
+		 Olympia Snowe  Maine Republican 1
+		 Jean Hay Bright  Maine Democratic 1
+	 2006 Maryland
+		 I
+		 Paul S. Sarbanes Maryland D 0
+		 Ben Cardin  Maryland Democratic 0
+		 Michael Steele  Maryland Republican 0
+	 2006 Massachusetts
+		 Ted Kennedy  Massachusetts Democratic 0
+		 Kenneth Chase  Massachusetts Republican 0
+	 2006 Michigan
+		 I
+		 Debbie Stabenow Michigan D 1
+		 Debbie Stabenow  Michigan Democratic 1
+		 Mike Bouchard  Michigan Republican 0
+	 2006 Minnesota
+		 I
+		 Mark Dayton Minnesota D 0
+		 Amy Klobuchar  Minnesota Democratic-Farmer-Labor 1
+		 Mark Kennedy  Minnesota Republican 0
+	 2006 Mississippi
+		 I
+		 Trent Lott Mississippi R 0
+		 Trent Lott  Mississippi Republican 0
+		 Erik Fleming  Mississippi Democratic 0
+	 2006 Missouri
+		 Claire McCaskill  Missouri Democratic 1
+		 Jim Talent  Missouri Republican 0
+	 2006 Montana
+		 I
+		 Conrad Burns Montana R 0
+		 Jon Tester  Montana Democratic 0
+		 Conrad Burns  Montana Republican 0
+	 2006 Nebraska
+		 I
+		 Ben Nelson Nebraska D 0
+		 Ben Nelson  Nebraska Democratic 0
+		 Pete Ricketts  Nebraska Republican 0
+	 2006 Nevada
+		 I
+		 John Ensign Nevada R 0
+		 John Ensign  Nevada Republican 0
+		 Jack Carter  Nevada Democratic 0
+	 2006 New Jersey
+		 Bob Menendez  New Jersey Democratic 0
+		 Thomas Kean Jr.  New Jersey Republican 0
+	 2006 New Mexico
+		 I
+		 Jeff Bingaman New Mexico D 0
+		 Jeff Bingaman  New Mexico Democratic 0
+		 Allen McCulloch  New Mexico Republican 0
+	 2006 New York
+		 I
+		 Hillary Rodham Clinton New York D 1
+		 Hillary Clinton  New York Democratic 1
+		 John Spencer  New York Republican 0
+	 2006 North Dakota
+		 I
+		 Kent Conrad North Dakota D 0
+		 Kent Conrad  North Dakota Democratic 0
+		 Dwight Grotberg  North Dakota Republican 0
+	 2006 Ohio
+		 Sherrod Brown  Ohio Democratic 0
+		 Mike DeWine  Ohio Republican 0
+	 2006 Pennsylvania
+		 Bob Casey Jr.  Pennsylvania Democratic 0
+		 Rick Santorum  Pennsylvania Republican 0
+	 2006 Rhode Island
+		 I
+		 Lincoln D. Chafee Rhode Island R 0
+		 Sheldon Whitehouse  Rhode Island Democratic 0
+		 Lincoln Chafee  Rhode Island Republican 0
+	 2006 Tennessee
+		 Bob Corker  Tennessee Republican 0
+		 Harold Ford Jr.  Tennessee Democratic 0
+	 2006 Texas
+		 Kay Bailey Hutchison  Texas Republican 1
+		 Barbara Ann Radnofsky  Texas Democratic 1
+	 2006 Utah
+		 I
+		 Orrin G. Hatch Utah R 0
+		 Orrin Hatch  Utah Republican 0
+		 Pete Ashdown  Utah Democratic 0
+	 2006 Vermont
+		 Bernie Sanders  Vermont Independent 0
+		 Richard Tarrant  Vermont Republican 0
+	 2006 Virginia
+		 I
+		 George Felix Allen Virginia R 0
+		 Jim Webb  Virginia Democratic 0
+		 George Allen  Virginia Republican 0
+	 2006 Washington
+		 I
+		 Maria Cantwell Washington D 1
+		 Maria Cantwell  Washington Democratic 1
+		 Mike McGavick  Washington Republican 0
+	 2006 West Virginia
+		 I
+		 Robert C. Byrd West Virginia D 0
+		 Robert Byrd  West Virginia Democratic 0
+		 John Raese  West Virginia Republican 0
+	 2006 Wisconsin
+		 I
+		 Herb Kohl Wisconsin D 0
+		 Herb Kohl  Wisconsin Democratic 0
+		 Robert Lorge  Wisconsin Republican 0
+	 2006 Wyoming
+		 Craig L. Thomas  Wyoming Republican 0
+		 Dale Groutage  Wyoming Democratic 0
+	 2008 Alabama
+		 I
+		 Jeff Sessions Alabama R 0
+		 Jeff Sessions  Alabama Republican 0
+		 Vivian Davis Figures  Alabama Democratic 1
+	 2008 Alaska
+		 I
+		 Ted F. Stevens Alaska R 0
+		 Mark Begich  Alaska Democratic 0
+		 Ted Stevens  Alaska Republican 0
+	 2008 Arkansas
+		 I
+		 Mark Pryor Arkansas D 0
+		 Mark Pryor  Arkansas Democratic 0
+		 Rebekah Kennedy  Arkansas Green 1
+	 2008 Colorado
+		 I
+		 Wayne A. Allard Colorado R 0
+		 Mark Udall  Colorado Democratic 0
+		 Bob Schaffer  Colorado Republican 0
+	 2008 Delaware
+		 Joe Biden  Delaware Democratic 0
+		 Christine O'Donnell  Delaware Republican 1
+	 2008 Georgia
+		 I
+		 Saxby Chambliss Georgia R 0
+		 Saxby Chambliss  Georgia Republican 0
+		 Jim Martin  Georgia Democratic 0
+	 2008 Idaho
+		 I
+		 Larry E. Craig Idaho R 0
+		 Jim Risch  Idaho Republican 0
+		 Larry LaRocco  Idaho Democratic 0
+	 2008 Illinois
+		 Dick Durbin  Illinois Democratic 0
+		 Steve Sauerberg  Illinois Republican 0
+	 2008 Iowa
+		 I
+		 Tom Harkin Iowa D 0
+		 Tom Harkin  Iowa Democratic 0
+		 Christopher Reed  Iowa Republican 0
+	 2008 Kansas
+		 I
+		 Pat Roberts Kansas R 0
+		 Pat Roberts  Kansas Republican 0
+		 Jim Slattery  Kansas Democratic 0
+	 2008 Kentucky
+		 I
+		 Mitch McConnell Kentucky R 0
+		 Mitch McConnell  Kentucky Republican 0
+		 Bruce Lunsford  Kentucky Democratic 0
+	 2008 Louisiana
+		 I
+		 Mary L. Landrieu Louisiana D 1
+		 Mary Landrieu  Louisiana Democratic 1
+		 John Kennedy  Louisiana Republican 0
+	 2008 Maine
+		 I
+		 Susan Collins Maine R 1
+		 Susan Collins  Maine Republican 1
+		 Tom Allen  Maine Democratic 0
+	 2008 Massachusetts
+		 I
+		 John Kerry Massachusetts D 0
+		 John Kerry  Massachusetts Democratic 0
+		 Jeff Beatty  Massachusetts Republican 0
+	 2008 Michigan
+		 I
+		 Carl Levin Michigan D 0
+		 Carl Levin  Michigan Democratic 0
+		 Jack Hoogendyk  Michigan Republican 0
+	 2008 Minnesota
+		 I
+		 Norm Coleman Minnesota R 0
+		 Al Franken  Minnesota DFL 0
+		 Norm Coleman  Minnesota Republican 0
+	 2008 Mississippi
+		 I
+		 Thad Cochran Mississippi R 0
+		 Thad Cochran  Mississippi Republican 0
+		 Erik Fleming  Mississippi Democratic 0
+	 2008 Montana
+		 I
+		 Max Baucus Montana D 0
+		 Max Baucus  Montana Democratic 0
+		 Bob Kelleher  Montana Republican 0
+	 2008 Nebraska
+		 I
+		 Chuck T. Hagel Nebraska R 0
+		 Mike Johanns  Nebraska Republican 0
+		 Scott Kleeb  Nebraska Democratic 0
+	 2008 New Hampshire
+		 Jeanne Shaheen  New Hampshire Democratic 1
+		 John E. Sununu  New Hampshire Republican 0
+	 2008 New Jersey
+		 I
+		 Frank R. Lautenberg New Jersey D 0
+		 Frank Lautenberg  New Jersey Democratic 0
+		 Dick Zimmer  New Jersey Republican 0
+	 2008 New Mexico
+		 I
+		 Pete V. Domenici New Mexico R 0
+		 Tom Udall  New Mexico Democratic 0
+		 Steve Pearce  New Mexico Republican 0
+	 2008 North Carolina
+		 I
+		 Elizabeth H. Dole North Carolina R 1
+		 Kay Hagan  North Carolina Democratic 1
+		 Elizabeth Dole  North Carolina Republican 1
+	 2008 Oklahoma
+		 Jim Inhofe  Oklahoma Republican 0
+		 Andrew Rice  Oklahoma Democratic 0
+	 2008 Oregon
+		 Jeff Merkley  Oregon Democratic 0
+		 Gordon H. Smith  Oregon Republican 0
+	 2008 Rhode Island
+		 I
+		 Jack Reed Rhode Island D 0
+		 Jack Reed  Rhode Island Democratic 0
+		 Robert Tingle  Rhode Island Republican 0
+	 2008 South Carolina
+		 I
+		 Lindsey Graham South Carolina R 0
+		 Lindsey Graham  South Carolina Republican 0
+		 Bob Conley  South Carolina Democratic 0
+	 2008 South Dakota
+		 I
+		 Tim Johnson South Dakota D 0
+		 Tim Johnson  South Dakota Democratic 0
+		 Joel Dykstra  South Dakota Republican 0
+	 2008 Tennessee
+		 I
+		 Lamar Alexander Tennessee R 0
+		 Lamar Alexander  Tennessee Republican 0
+		 Bob Tuke  Tennessee Democratic 0
+	 2008 Texas
+		 I
+		 John Cornyn Texas R 0
+		 John Cornyn  Texas Republican 0
+		 Rick Noriega  Texas Democratic 0
+	 2008 Virginia
+		 I
+		 John W. Warner Virginia R 0
+		 Mark Warner  Virginia Democratic 0
+		 Jim Gilmore  Virginia Republican 0
+	 2008 West Virginia
+		 Jay Rockefeller  West Virginia Democratic 0
+		 Jay Wolfe  West Virginia Republican 0
+	 2008 Wyoming
+		 Mike Enzi  Wyoming Republican 0
+		 Chris Rothfuss  Wyoming Democratic 0
+	 2010 Alabama
+		 I
+		 Richard C. Shelby Alabama R 0
+		 Richard Shelby  Alabama Republican 0
+		 William G. Barnes  Alabama Democratic 0
+	 2010 Alaska
+		 I
+		 Lisa Murkowski Alaska R 1
+		 Lisa Murkowski  Alaska Republican 1
+		 Joe Miller  Alaska Republican 0
+	 2010 Arizona
+		 I
+		 John McCain Arizona R 0
+		 John McCain  Arizona Republican 0
+		 Rodney Glassman  Arizona Democratic 0
+	 2010 Arkansas
+		 I
+		 Blanche Lincoln Arkansas D 1
+		 John Boozman  Arkansas Republican 0
+		 Blanche Lincoln  Arkansas Democratic 1
+	 2010 California
+		 I
+		 Barbara Boxer California D 1
+		 Barbara Boxer  California Democratic 1
+		 Carly Fiorina  California Republican 1
+	 2010 Colorado
+		 I
+		 Michael Bennet Colorado D 0
+		 Michael Bennet  Colorado Democratic 0
+		 Ken Buck  Colorado Republican 0
+	 2010 Connecticut
+		 Richard Blumenthal  Connecticut Democratic 0
+		 Linda McMahon  Connecticut Republican 1
+	 2010 Florida
+		 I
+		 George S. LeMieux Florida R 0
+		 Marco Rubio  Florida Republican 0
+		 Charlie Crist  Florida Independent 0
+	 2010 Georgia
+		 I
+		 Johnny Isakson Georgia R 0
+		 Johnny Isakson  Georgia Republican 0
+		 Michael Thurmond  Georgia Democratic 0
+	 2010 Hawaii
+		 I
+		 Daniel K. Inouye Hawaii D 0
+		 Daniel Inouye  Hawaii Democratic 0
+		 Campbell Cavasso  Hawaii Republican 0
+	 2010 Idaho
+		 Mike Crapo  Idaho Republican 0
+		 Tom Sullivan  Idaho Democratic 0
+	 2010 Illinois
+		 I
+		 Roland W. Burris Illinois D 0
+		 Mark Kirk  Illinois Republican 0
+		 Alexi Giannoulias  Illinois Democratic 0
+	 2010 Indiana
+		 I
+		 Evan Bayh Indiana D 0
+		 Dan Coats  Indiana Republican 0
+		 Brad Ellsworth  Indiana Democratic 0
+	 2010 Iowa
+		 Chuck Grassley  Iowa Republican 0
+		 Roxanne Conlin  Iowa Democratic 1
+	 2010 Kansas
+		 I
+		 Sam Brownback Kansas R 0
+		 Jerry Moran  Kansas Republican 0
+		 Lisa Johnston  Kansas Democratic 1
+	 2010 Kentucky
+		 I
+		 Jim Bunning Kentucky R 0
+		 Rand Paul  Kentucky Republican 0
+		 Jack Conway  Kentucky Democratic 0
+	 2010 Louisiana
+		 I
+		 David Vitter Louisiana R 0
+		 David Vitter  Louisiana Republican 0
+		 Charles Melancon  Louisiana Democratic 0
+	 2010 Maryland
+		 I
+		 Barbara A. Mikulski Maryland D 1
+		 Barbara Mikulski  Maryland Democratic 1
+		 Eric Wargotz  Maryland Republican 0
+	 2010 Missouri
+		 Roy Blunt  Missouri Republican 0
+		 Robin Carnahan  Missouri Democratic 1
+	 2010 Nevada
+		 I
+		 Harry Reid Nevada D 0
+		 Harry Reid  Nevada Democratic 0
+		 Sharron Angle  Nevada Republican 1
+	 2010 New Hampshire
+		 I
+		 Judd Gregg New Hampshire R 0
+		 Kelly Ayotte  New Hampshire Republican 1
+		 Paul Hodes  New Hampshire Democratic 0
+	 2010 New York
+		 Chuck Schumer  New York Democratic 0
+		 Jay Townsend  New York Republican 0
+	 2010 North Carolina
+		 I
+		 Richard M. Burr North Carolina R 0
+		 Richard Burr  North Carolina Republican 0
+		 Elaine Marshall  North Carolina Democratic 1
+	 2010 North Dakota
+		 I
+		 Byron L. Dorgan North Dakota D 0
+		 John Hoeven  North Dakota Republican 0
+		 Tracy Potter  North Dakota Democratic 1
+	 2010 Ohio
+		 I
+		 George V. Voinovich Ohio R 0
+		 Rob Portman  Ohio Republican 0
+		 Lee Fisher  Ohio Democratic 0
+	 2010 Oklahoma
+		 I
+		 Tom Coburn Oklahoma R 0
+		 Tom Coburn  Oklahoma Republican 0
+		 Jim Rogers  Oklahoma Democratic 0
+	 2010 Oregon
+		 I
+		 Ron Wyden Oregon D 0
+		 Ron Wyden  Oregon Democratic 0
+		 Jim Huffman  Oregon Republican 0
+	 2010 Pennsylvania
+		 I
+		 Arlen Specter Pennsylvania D 0
+		 Pat Toomey  Pennsylvania Republican 0
+		 Joe Sestak  Pennsylvania Democratic 0
+	 2010 South Carolina
+		 I
+		 Jim DeMint South Carolina R 0
+		 Jim DeMint  South Carolina Republican 0
+		 Alvin Greene  South Carolina Democratic 0
+	 2010 South Dakota
+		 I
+		 John Thune South Dakota R 0
+		 John Thune  South Dakota Republican 0
+		 No additional candidates
+	 2010 Utah
+		 Mike Lee  Utah Republican 0
+		 Sam Granato  Utah Democratic 0
+	 2010 Vermont
+		 I
+		 Patrick J. Leahy Vermont D 0
+		 Patrick Leahy  Vermont Democratic 0
+		 Len Britton  Vermont Republican 0
+	 2010 Washington
+		 I
+		 Patty Murray Washington D 1
+		 Patty Murray  Washington Democratic 1
+		 Dino Rossi  Washington Republican 0
+	 2010 Wisconsin
+		 I
+		 Russ Feingold Wisconsin D 0
+		 Ron Johnson  Wisconsin Republican 0
+		 Russ Feingold  Wisconsin Democratic 0
+	 2012 Arizona
+		 I
+		 Jon Kyl Arizona R 0
+		 Jeff Flake  Arizona Republican 0
+		 Richard Carmona  Arizona Democratic 0
+	 2012 California
+		 I
+		 Dianne Feinstein California D 1
+		 Dianne Feinstein  California Democratic 1
+		 Elizabeth Emken  California Republican 1
+	 2012 Connecticut
+		 Chris Murphy  Connecticut Democratic 0
+		 Linda McMahon  Connecticut Republican 1
+	 2012 Delaware
+		 Tom Carper  Delaware Democratic 0
+		 Kevin Wade  Delaware Republican 0
+	 2012 Florida
+		 I
+		 Bill Nelson Florida D 0
+		 Bill Nelson  Florida Democratic 0
+		 Connie Mack IV  Florida Republican 1
+	 2012 Hawaii
+		 I
+		 Daniel K. Akaka Hawaii D 0
+		 Mazie Hirono  Hawaii Democratic 1
+		 Linda Lingle  Hawaii Republican 1
+	 2012 Indiana
+		 I
+		 Richard G. Lugar Indiana R 0
+		 Joe Donnelly  Indiana Democratic 0
+		 Richard Mourdock  Indiana Republican 0
+	 2012 Maine
+		 I
+		 Olympia J. Snowe Maine R 1
+		 Angus King  Maine Independent 0
+		 Charles E. Summers, Jr.  Maine Republican 0
+	 2012 Maryland
+		 Ben Cardin  Maryland Democratic 0
+		 Dan Bongino  Maryland Republican 0
+	 2012 Massachusetts
+		 I
+		 Scott Brown Massachusetts R 0
+		 Elizabeth Warren  Massachusetts Democratic 1
+		 Scott Brown  Massachusetts Republican 0
+	 2012 Michigan
+		 I
+		 Debbie Stabenow Michigan D 1
+		 Debbie Stabenow  Michigan Democratic 1
+		 Pete Hoekstra  Michigan Republican 0
+	 2012 Minnesota
+		 I
+		 Amy Klobuchar Minnesota D 1
+		 Amy Klobuchar  Minnesota Democratic 1
+		 Kurt Bills  Minnesota Republican 0
+	 2012 Mississippi
+		 I
+		 Roger Wicker Mississippi R 0
+		 Roger Wicker  Mississippi Republican 0
+		 Albert N. Gore, Jr.  Mississippi Democratic 0
+	 2012 Missouri
+		 I
+		 Claire McCaskill Missouri D 1
+		 Claire McCaskill  Missouri Democratic 1
+		 Todd Akin  Missouri Republican 0
+	 2012 Montana
+		 I
+		 Jon Tester Montana D 0
+		 Jon Tester  Montana Democratic 0
+		 Denny Rehberg  Montana Republican 0
+	 2012 Nebraska
+		 I
+		 Ben Nelson Nebraska D 0
+		 Deb Fischer  Nebraska Republican 1
+		 Bob Kerrey  Nebraska Democratic 0
+	 2012 Nevada
+		 I
+		 Dean Heller Nevada R 0
+		 Dean Heller  Nevada Republican 0
+		 Shelley Berkley  Nevada Democratic 1
+	 2012 New Jersey
+		 Bob Menendez  New Jersey Democratic 0
+		 Joe Kyrillos  New Jersey Republican 0
+	 2012 New Mexico
+		 I
+		 Jeff Bingaman New Mexico D 0
+		 Martin Heinrich  New Mexico Democratic 0
+		 Heather Wilson  New Mexico Republican 1
+	 2012 New York
+		 I
+		 Kirsten E. Gillibrand New York D 1
+		 Kirsten Gillibrand  New York Democratic 1
+		 Wendy E. Long  New York Republican 1
+	 2012 North Dakota
+		 I
+		 Kent Conrad North Dakota D 0
+		 Heidi Heitkamp  North Dakota Democratic 1
+		 Rick Berg  North Dakota Republican 0
+	 2012 Ohio
+		 I
+		 Sherrod Brown Ohio D 0
+		 Sherrod Brown  Ohio Democratic 0
+		 Josh Mandel  Ohio Republican 0
+	 2012 Pennsylvania
+		 Bob Casey Jr.  Pennsylvania Democratic 0
+		 Tom Smith  Pennsylvania Republican 0
+	 2012 Rhode Island
+		 I
+		 Sheldon Whitehouse Rhode Island D 0
+		 Sheldon Whitehouse  Rhode Island Democratic 0
+		 Barry Hinckley  Rhode Island Republican 0
+	 2012 Tennessee
+		 I
+		 Bob Corker Tennessee R 0
+		 Bob Corker  Tennessee Republican 0
+		 Mark Clayton  Tennessee Democratic 0
+	 2012 Texas
+		 Ted Cruz  Texas Republican 0
+		 Paul Sadler  Texas Democratic 0
+	 2012 Utah
+		 I
+		 Orrin G. Hatch Utah R 0
+		 Orrin Hatch  Utah Republican 0
+		 Scott Howell  Utah Democratic 0
+	 2012 Vermont
+		 Bernie Sanders  Vermont Independent 0
+		 John MacGovern  Vermont Republican 0
+	 2012 Virginia
+		 I
+		 Jim Webb Virginia D 0
+		 Tim Kaine  Virginia Democratic 0
+		 George Allen  Virginia Republican 0
+	 2012 Washington
+		 I
+		 Maria Cantwell Washington D 1
+		 Maria Cantwell  Washington Democratic 1
+		 Michael Baumgartner  Washington Republican 0
+	 2012 West Virginia
+		 I
+		 Joe Manchin West Virginia D 0
+		 Joe Manchin  West Virginia Democratic 0
+		 John Raese  West Virginia Republican 0
+	 2012 Wisconsin
+		 I
+		 Herb Kohl Wisconsin D 0
+		 Tammy Baldwin  Wisconsin Democratic 1
+		 Tommy Thompson  Wisconsin Republican 1
+	 2012 Wyoming
+		 I
+		 John Barrasso Wyoming R 0
+		 John Barrasso  Wyoming Republican 0
+		 Tim Chesnut  Wyoming Democratic 0
+	 2014 Alabama
+		 I
+		 Jeff Sessions Alabama R 0
+		 Jeff Sessions Alabama Republican 0
+		  Alabama  
+	 2014 Alaska
+		 I
+		 Mark Begich Alaska D 0
+		 Dan Sullivan Alaska Republican 0
+		 Mark Begich  Alaska Democratic 0
+	 2014 Arkansas
+		 I
+		 Mark Pryor Arkansas D 0
+		 Tom Cotton  Arkansas Republican 0
+		 Mark Pryor  Arkansas Democratic 0
+	 2014 Colorado
+		 I
+		 Mark Udall Colorado D 0
+		 Cory Gardner  Colorado Republican 0
+		 Mark Udall  Colorado Democratic 0
+	 2014 Delaware
+		 Chris Coons  Delaware Democratic 0
+		 Kevin Wade  Delaware Republican 0
+	 2014 Georgia
+		 I
+		 Saxby Chambliss Georgia R 0
+		 David Perdue  Georgia Republican 0
+		 Michelle Nunn  Georgia Democratic 1
+	 2014 Idaho
+		 I
+		 Jim Risch Idaho R 0
+		 Jim Risch  Idaho Republican 0
+		 Nels Mitchell  Idaho Democratic 0
+	 2014 Illinois
+		 Dick Durbin  Illinois Democratic 0
+		 Jim Oberweis  Illinois Republican 0
+	 2014 Iowa
+		 I
+		 Tom Harkin Iowa D 0
+		 Joni Ernst  Iowa Republican 1
+		 Bruce Braley  Iowa Democratic 0
+	 2014 Kansas
+		 I
+		 Pat Roberts Kansas R 0
+		 Pat Roberts  Kansas Republican 0
+		 Greg Orman  Kansas Independent 0
+	 2014 Kentucky
+		 I
+		 Mitch McConnell Kentucky R 0
+		 Mitch McConnell  Kentucky Republican 0
+		 Alison Lundergan Grimes  Kentucky Democratic 1
+	 2014 Louisiana
+		 I
+		 Mary L. Landrieu Louisiana D 1
+		 Bill Cassidy  Louisiana Republican 0
+		 Mary Landrieu  Louisiana Democratic 1
+	 2014 Maine
+		 I
+		 Susan Collins Maine R 1
+		 Susan Collins  Maine Republican 1
+		 Shenna Bellows  Maine Democratic 1
+	 2014 Massachusetts
+		 Ed Markey  Massachusetts Democratic 0
+		 Brian Herr  Massachusetts Republican 0
+	 2014 Michigan
+		 I
+		 Carl Levin Michigan D 0
+		 Gary Peters  Michigan Democratic 0
+		 Terri Lynn Land  Michigan Republican 1
+	 2014 Minnesota
+		 I
+		 Al Franken Minnesota D 0
+		 Al Franken  Minnesota Democratic Farmer-Labor 0
+		 Mike McFadden  Minnesota Republican 0
+	 2014 Mississippi
+		 I
+		 Thad Cochran Mississippi R 0
+		 Thad Cochran  Mississippi Republican 0
+		 Travis Childers  Mississippi Democratic 0
+	 2014 Montana
+		 I
+		 John Walsh Montana D 0
+		 Steve Daines  Montana Republican 0
+		 Amanda Curtis  Montana Democratic 1
+	 2014 Nebraska
+		 I
+		 Mike Johanns Nebraska R 0
+		 Ben Sasse  Nebraska Republican 0
+		 David Domina  Nebraska Democratic 0
+	 2014 New Hampshire
+		 I
+		 Jeanne Shaheen New Hampshire D 1
+		 Jeanne Shaheen  New Hampshire Democratic 1
+		 Scott Brown  New Hampshire Republican 0
+	 2014 New Jersey
+		 I
+		 Cory Booker New Jersey D 0
+		 Cory Booker  New Jersey Democratic 0
+		 Jeff Bell  New Jersey Republican 0
+	 2014 New Mexico
+		 I
+		 Tom Udall New Mexico D 0
+		 Tom Udall  New Mexico Democratic 0
+		 Allen Weh  New Mexico Republican 0
+	 2014 North Carolina
+		 I
+		 Kay Hagan North Carolina D 1
+		 Thom Tillis  North Carolina Republican 0
+		 Kay Hagan  North Carolina Democratic 1
+	 2014 Oklahoma
+		 Jim Inhofe  Oklahoma Republican 0
+		 Matt Silverstein  Oklahoma Democratic 0
+	 2014 Oregon
+		 I
+		 Jeff Merkley Oregon D 0
+		 Jeff Merkley  Oregon Democratic 0
+		 Monica Wehby  Oregon Republican 1
+	 2014 Rhode Island
+		 I
+		 Jack Reed Rhode Island D 0
+		 Jack Reed  Rhode Island Democratic 0
+		 Mark Zaccaria  Rhode Island Republican 0
+	 2014 South Carolina
+		 I
+		 Lindsey Graham South Carolina R 0
+		 Lindsey Graham  South Carolina Republican 0
+		 Brad Hutto  South Carolina Democratic 0
+	 2014 South Dakota
+		 I
+		 Tim Johnson South Dakota D 0
+		 Mike Rounds  South Dakota Republican 0
+		 Rick Weiland  South Dakota Democratic 0
+	 2014 Tennessee
+		 I
+		 Lamar Alexander Tennessee R 0
+		 Lamar Alexander  Tennessee Republican 0
+		 Martin Pleasant  Tennessee Green 0
+	 2014 Texas
+		 I
+		 John Cornyn Texas R 0
+		 John Cornyn  Texas Republican 0
+		 Gordon Ball  Texas Democratic 0
+	 2014 Virginia
+		 I
+		 Mark Warner Virginia D 0
+		 Mark Warner  Virginia Democratic 0
+		 Ed Gillespie  Virginia Republican 0
+	 2014 West Virginia
+		 Shelley Moore Capito  West Virginia Republican 1
+		 Natalie Tennant  West Virginia Democratic 1
+	 2014 Wyoming
+		 Mike Enzi  Wyoming Republican 0
+		 Charlie Hardy  Wyoming Democratic 0
+

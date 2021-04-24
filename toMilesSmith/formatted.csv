@@ -1,0 +1,795 @@
+year,state,candidate,winner,Percent of Vote,type
+1990,Alabama,Howell Heflin ,True,60.7,3
+1990,Alabama,William J. Cabaniss ,False,60.7,3
+1990,Alaska,Ted Stevens ,True,67.2,3
+1990,Alaska,Michael Beasley ,False,67.2,3
+1990,Arkansas,David Pryor ,True,1.0,3
+1990,Colorado,Hank Brown ,True,55.7,2
+1990,Colorado,Josie Heath ,False,55.7,2
+1990,Delaware,Joe Biden ,True,62.7,2
+1990,Delaware,M. Jane Brady ,False,62.7,2
+1990,Georgia,Sam Nunn ,True,1.0,3
+1990,Idaho,Larry Craig ,True,61.3,3
+1990,Idaho,Ron J. Twilegar ,False,61.3,3
+1990,Illinois,Paul Simon ,True,64.9,2
+1990,Illinois,Lynn Morley Martin ,False,64.9,2
+1990,Iowa,Tom Harkin ,True,54.0,3
+1990,Iowa,Tom Tauke ,False,54.0,3
+1990,Kansas,Nancy Kassebaum ,True,73.6,0
+1990,Kansas,Dick Williams ,False,73.6,0
+1990,Kentucky,Mitch McConnell ,True,52.2,3
+1990,Kentucky,Harvey I. Sloane ,False,52.2,3
+1990,Louisiana,J. Bennett Johnston ,True,53.0,3
+1990,Louisiana,David Duke ,False,53.0,3
+1990,Maine,William Cohen ,True,61.4,3
+1990,Maine,Neil Rolde ,False,61.4,3
+1990,Massachusetts,John Kerry ,True,56.9,3
+1990,Massachusetts,Jim Rappaport ,False,56.9,3
+1990,Michigan,Carl Levin ,True,57.5,3
+1990,Michigan,Bill Schuette ,False,57.5,3
+1990,Minnesota,Paul Wellstone ,True,50.4,3
+1990,Minnesota,Rudy Boschwitz ,False,50.4,3
+1990,Mississippi,Thad Cochran ,True,1.0,3
+1990,Montana,Max Baucus ,True,68.1,3
+1990,Montana,Allen Kolstad ,False,68.1,3
+1990,Nebraska,J. James Exon ,True,59.1,3
+1990,Nebraska,Hal Daub ,False,59.1,3
+1990,New Hampshire,Bob Smith ,True,65.1,3
+1990,New Hampshire,John A. Durkin ,False,65.1,3
+1990,New Jersey,Bill Bradley ,True,50.4,2
+1990,New Jersey,Christine Todd Whitman ,False,50.4,2
+1990,New Mexico,Pete Domenici ,True,72.9,3
+1990,New Mexico,Tom R. Benavides ,False,72.9,3
+1990,North Carolina,Jesse Helms ,True,52.6,3
+1990,North Carolina,Harvey Gantt ,False,52.6,3
+1990,Oklahoma,David Boren ,True,83.2,3
+1990,Oklahoma,Stephen Jones ,False,83.2,3
+1990,Oregon,Mark Hatfield ,True,53.9,3
+1990,Oregon,Harry Lonsdale ,False,53.9,3
+1990,Rhode Island,Claiborne Pell ,True,61.8,2
+1990,Rhode Island,Claudine Schneider ,False,61.8,2
+1990,South Carolina,Strom Thurmond ,True,64.2,3
+1990,South Carolina,Bob Cunningham ,False,64.2,3
+1990,South Dakota,Larry Pressler ,True,52.4,3
+1990,South Dakota,Ted Muenster ,False,52.4,3
+1990,Tennessee,Al Gore ,True,67.7,3
+1990,Tennessee,William R. Hawkins ,False,67.7,3
+1990,Texas,Phil Gramm ,True,60.2,3
+1990,Texas,Hugh Parmer ,False,60.2,3
+1990,Virginia,John Warner ,True,80.9,2
+1990,Virginia,Nancy B. Spannaus ,False,80.9,2
+1990,West Virginia,Jay Rockefeller ,True,68.5,3
+1990,West Virginia,John Yoder ,False,68.5,3
+1990,Wyoming,Alan Simpson ,True,66.4,2
+1990,Wyoming,Kathy Helling ,False,66.4,2
+1992,Alabama,Richard Shelby ,True,64.8,3
+1992,Alabama,Richard Sellars ,False,64.8,3
+1992,Alaska,Frank Murkowski ,True,53.0,3
+1992,Alaska,Tony Smith ,False,53.0,3
+1992,Arizona,John McCain ,True,55.8,2
+1992,Arizona,Claire Sargent ,False,55.8,2
+1992,Arkansas,Dale Bumpers ,True,60.2,3
+1992,Arkansas,Mike Huckabee ,False,60.2,3
+1992,California,Barbara Boxer ,True,47.9,1
+1992,California,Bruce Herschensohn ,False,47.9,1
+1992,Colorado,Ben Nighthorse Campbell ,True,51.8,3
+1992,Colorado,Terry Considine ,False,51.8,3
+1992,Connecticut,Chris Dodd ,True,58.8,2
+1992,Connecticut,Brook Johnson ,False,58.8,2
+1992,Florida,Bob Graham ,True,65.4,3
+1992,Florida,James W. Grant ,False,65.4,3
+1992,Georgia,Paul Coverdell ,True,50.6,3
+1992,Georgia,Wyche Fowler ,False,50.6,3
+1992,Hawaii,Daniel Inouye ,True,57.3,3
+1992,Hawaii,Rick Reed ,False,57.3,3
+1992,Idaho,Dirk Kempthorne ,True,56.5,3
+1992,Idaho,Richard H. Stallings ,False,56.5,3
+1992,Illinois,Carol Moseley Braun ,True,53.3,1
+1992,Illinois,Richard S. Williamson ,False,53.3,1
+1992,Indiana,Dan Coats ,True,57.3,3
+1992,Indiana,Joe Hogsett ,False,57.3,3
+1992,Iowa,Chuck Grassley ,True,69.6,3
+1992,Iowa,Jean Hall Lloyd-Jones ,False,69.6,3
+1992,Kansas,Bob Dole ,True,62.7,2
+1992,Kansas,Gloria O'Dell ,False,62.7,2
+1992,Kentucky,Wendell Ford ,True,62.9,3
+1992,Kentucky,David L. Williams ,False,62.9,3
+1992,Louisiana,John Breaux ,True,73.07,3
+1992,Louisiana,Jon Khachaturian ,False,73.07,3
+1992,Maryland,Barbara Mikulski ,True,71.0,1
+1992,Maryland,Alan Keyes ,False,71.0,1
+1992,Missouri,"Christopher ""Kit"" Bond ",True,51.9,2
+1992,Missouri,Geri Rothman-Serot ,False,51.9,2
+1992,Nevada,Harry Reid ,True,51.0,3
+1992,Nevada,Demar Dahl ,False,51.0,3
+1992,New Hampshire,Judd Gregg ,True,48.2,3
+1992,New Hampshire,John Rauh ,False,48.2,3
+1992,New York,Al D'Amato ,True,49.0,3
+1992,New York,Robert Abrams ,False,49.0,3
+1992,North Carolina,Lauch Faircloth ,True,50.4,3
+1992,North Carolina,Terry Sanford ,False,50.4,3
+1992,North Dakota,Byron Dorgan ,True,59.0,3
+1992,North Dakota,Steve Sydness ,False,59.0,3
+1992,Ohio,John Glenn ,True,51.0,3
+1992,Ohio,Mike DeWine ,False,51.0,3
+1992,Oklahoma,Don Nickles ,True,58.5,3
+1992,Oklahoma,Steve Lewis ,False,58.5,3
+1992,Oregon,Bob Packwood ,True,52.1,3
+1992,Oregon,Les AuCoin ,False,52.1,3
+1992,Pennsylvania,Arlen Specter ,True,49.1,2
+1992,Pennsylvania,Lynn Yeakel ,False,49.1,2
+1992,South Carolina,Fritz Hollings ,True,50.1,3
+1992,South Carolina,Thomas F. Hartnett ,False,50.1,3
+1992,South Dakota,Tom Daschle ,True,64.9,2
+1992,South Dakota,Charlene Haar ,False,64.9,2
+1992,Utah,Bob Bennett ,True,55.4,3
+1992,Utah,Wayne Owens ,False,55.4,3
+1992,Vermont,Patrick Leahy ,True,54.2,3
+1992,Vermont,Jim Douglas ,False,54.2,3
+1992,Washington,Patty Murray ,True,54.0,1
+1992,Washington,Rod Chandler ,False,54.0,1
+1992,Wisconsin,Russ Feingold ,True,52.6,3
+1992,Wisconsin,Bob Kasten ,False,52.6,3
+1994,Arizona,Jon Kyl ,True,53.7,3
+1994,Arizona,Sam Coppersmith ,False,53.7,3
+1994,California,Dianne Feinstein ,True,46.7,1
+1994,California,Michael Huffington ,False,46.7,1
+1994,Connecticut,Joe Lieberman ,True,67.0,3
+1994,Connecticut,Jerry Labriola ,False,67.0,3
+1994,Delaware,William Roth ,True,55.8,3
+1994,Delaware,Charles Oberly ,False,55.8,3
+1994,Florida,Connie Mack III ,True,70.5,3
+1994,Florida,Hugh Rodham ,False,70.5,3
+1994,Hawaii,Daniel Akaka ,True,71.8,2
+1994,Hawaii,Maria Hustace ,False,71.8,2
+1994,Indiana,Richard Lugar ,True,67.4,3
+1994,Indiana,Jim Jontz ,False,67.4,3
+1994,Maine,Olympia Snowe ,True,60.2,1
+1994,Maine,Thomas Andrews ,False,60.2,1
+1994,Maryland,Paul Sarbanes ,True,59.1,3
+1994,Maryland,Bill Brock ,False,59.1,3
+1994,Massachusetts,Ted Kennedy ,True,58.1,3
+1994,Massachusetts,Mitt Romney ,False,58.1,3
+1994,Michigan,Spencer Abraham ,True,51.9,3
+1994,Michigan,Bob Carr ,False,51.9,3
+1994,Minnesota,Rod Grams ,True,49.1,0
+1994,Minnesota,Ann Wynia ,False,49.1,0
+1994,Mississippi,Trent Lott ,True,68.8,3
+1994,Mississippi,Ken Harper ,False,68.8,3
+1994,Missouri,John Ashcroft ,True,59.8,3
+1994,Missouri,Alan Wheat ,False,59.8,3
+1994,Montana,Conrad Burns ,True,62.4,3
+1994,Montana,Jack Mudd ,False,62.4,3
+1994,Nebraska,Bob Kerrey ,True,55.0,2
+1994,Nebraska,Jan Stoney ,False,55.0,2
+1994,Nevada,Richard Bryan ,True,50.9,3
+1994,Nevada,Hal Furman ,False,50.9,3
+1994,New Jersey,Frank Lautenberg ,True,50.4,3
+1994,New Jersey,Chuck Haytaian ,False,50.4,3
+1994,New Mexico,Jeff Bingaman ,True,54.0,3
+1994,New Mexico,Colin McMillan ,False,54.0,3
+1994,New York,Daniel Patrick Moynihan ,True,55.0,2
+1994,New York,Bernadette Castro ,False,55.0,2
+1994,North Dakota,Kent Conrad ,True,58.0,3
+1994,North Dakota,Ben Clayburgh ,False,58.0,3
+1994,Ohio,Mike DeWine ,True,53.4,3
+1994,Ohio,Joel Hyatt ,False,53.4,3
+1994,Pennsylvania,Rick Santorum ,True,49.4,3
+1994,Pennsylvania,Harris Wofford ,False,49.4,3
+1994,Rhode Island,John Chafee ,True,64.0,2
+1994,Rhode Island,Linda Kushner ,False,64.0,2
+1994,Tennessee,Bill Frist ,True,56.4,3
+1994,Tennessee,Jim Sasser ,False,56.4,3
+1994,Texas,Kay Bailey Hutchison ,True,60.8,1
+1994,Texas,Richard W. Fisher ,False,60.8,1
+1994,Utah,Orrin Hatch ,True,68.8,3
+1994,Utah,Patrick Shea ,False,68.8,3
+1994,Vermont,Jim Jeffords ,True,50.3,2
+1994,Vermont,Jan Backus ,False,50.3,2
+1994,Virginia,Chuck Robb ,True,45.6,3
+1994,Virginia,Oliver North ,False,45.6,3
+1994,Washington,Slade Gorton ,True,55.75,3
+1994,Washington,Ron Sims ,False,55.75,3
+1994,West Virginia,Robert Byrd ,True,69.0,3
+1994,West Virginia,Stanley L. Klos ,False,69.0,3
+1994,Wisconsin,Herb Kohl ,True,58.0,3
+1994,Wisconsin,Robert Welch ,False,58.0,3
+1994,Wyoming,Craig L. Thomas ,True,58.9,3
+1994,Wyoming,Mike Sullivan ,False,58.9,3
+1996,Alabama,Jeff Sessions ,True,52.5,3
+1996,Alabama,Roger Bedford ,False,52.5,3
+1996,Alaska,Ted Stevens ,True,76.7,3
+1996,Alaska,Jeff Whittaker ,False,76.7,3
+1996,Arkansas,Tim Hutchinson ,True,52.7,3
+1996,Arkansas,Winston Bryant ,False,52.7,3
+1996,Colorado,Wayne Allard ,True,51.4,3
+1996,Colorado,Tom Strickland ,False,51.4,3
+1996,Delaware,Joe Biden ,True,60.0,3
+1996,Delaware,Raymond J. Clatworthy ,False,60.0,3
+1996,Georgia,Max Cleland ,True,48.9,3
+1996,Georgia,Guy Millner ,False,48.9,3
+1996,Idaho,Larry Craig ,True,57.0,3
+1996,Idaho,Walt Minnick ,False,57.0,3
+1996,Illinois,Dick Durbin ,True,56.1,3
+1996,Illinois,Al Salvi ,False,56.1,3
+1996,Iowa,Tom Harkin ,True,51.8,3
+1996,Iowa,Jim Ross Lightfoot ,False,51.8,3
+1996,Kansas,Pat Roberts ,True,62.0,2
+1996,Kansas,Sally Thompson ,False,62.0,2
+1996,Kentucky,Mitch McConnell ,True,55.5,3
+1996,Kentucky,Steve Beshear ,False,55.5,3
+1996,Louisiana,Mary Landrieu ,True,50.1,1
+1996,Louisiana,Woody Jenkins ,False,50.1,1
+1996,Maine,Susan Collins ,True,49.2,1
+1996,Maine,Joseph E. Brennan ,False,49.2,1
+1996,Massachusetts,John Kerry ,True,52.2,3
+1996,Massachusetts,William Weld ,False,52.2,3
+1996,Michigan,Carl Levin ,True,58.4,2
+1996,Michigan,Ronna Romney ,False,58.4,2
+1996,Minnesota,Paul Wellstone ,True,50.3,3
+1996,Minnesota,Rudy Boschwitz ,False,50.3,3
+1996,Mississippi,Thad Cochran ,True,71.0,3
+1996,Mississippi,James Hunt ,False,71.0,3
+1996,Montana,Max Baucus ,True,49.5,3
+1996,Montana,Denny Rehberg ,False,49.5,3
+1996,Nebraska,Chuck Hagel ,True,56.1,3
+1996,Nebraska,Ben Nelson ,False,56.1,3
+1996,New Hampshire,Bob Smith ,True,49.3,3
+1996,New Hampshire,Dick Swett ,False,49.3,3
+1996,New Jersey,Robert Torricelli ,True,52.7,3
+1996,New Jersey,Dick Zimmer ,False,52.7,3
+1996,New Mexico,Pete Domenici ,True,64.7,3
+1996,New Mexico,Art Trujillo ,False,64.7,3
+1996,North Carolina,Jesse Helms ,True,52.6,3
+1996,North Carolina,Harvey Gantt ,False,52.6,3
+1996,Oklahoma,Jim Inhofe ,True,56.7,3
+1996,Oklahoma,James Boren ,False,56.7,3
+1996,Oregon,Gordon H. Smith ,True,49.8,3
+1996,Oregon,Tom Bruggere ,False,49.8,3
+1996,Rhode Island,Jack Reed ,True,63.3,2
+1996,Rhode Island,Nancy J. Mayer ,False,63.3,2
+1996,South Carolina,Strom Thurmond ,True,53.4,3
+1996,South Carolina,Elliot Close ,False,53.4,3
+1996,South Dakota,Tim Johnson ,True,51.3,3
+1996,South Dakota,Larry Pressler ,False,51.3,3
+1996,Tennessee,Fred Thompson ,True,61.4,3
+1996,Tennessee,J. Houston Gordon ,False,61.4,3
+1996,Texas,Phil Gramm ,True,54.8,3
+1996,Texas,Victor Morales ,False,54.8,3
+1996,Virginia,John Warner ,True,52.5,3
+1996,Virginia,Mark Warner ,False,52.5,3
+1996,West Virginia,Jay Rockefeller ,True,76.6,2
+1996,West Virginia,Betty Burks ,False,76.6,2
+1996,Wyoming,Mike Enzi ,True,54.1,2
+1996,Wyoming,Kathy Karpan ,False,54.1,2
+1998,Alabama,Richard Shelby ,True,63.2,3
+1998,Alabama,Clayton Suddith ,False,63.2,3
+1998,Alaska,Frank Murkowski ,True,74.5,3
+1998,Alaska,Joe Sonneman ,False,74.5,3
+1998,Arizona,John McCain ,True,68.7,3
+1998,Arizona,Ed Ranger ,False,68.7,3
+1998,Arkansas,Blanche Lincoln ,True,55.1,3
+1998,Arkansas,Fay Boozman ,False,55.1,3
+1998,California,Barbara Boxer ,True,53.0,1
+1998,California,Matt Fong ,False,53.0,1
+1998,Colorado,Ben Nighthorse Campbell ,True,62.5,2
+1998,Colorado,Dottie Lamm ,False,62.5,2
+1998,Connecticut,Chris Dodd ,True,65.1,3
+1998,Connecticut,Gary Franks ,False,65.1,3
+1998,Florida,Bob Graham ,True,62.5,3
+1998,Florida,Charlie Crist ,False,62.5,3
+1998,Georgia,Paul Coverdell ,True,52.3,3
+1998,Georgia,Michael Coles ,False,52.3,3
+1998,Hawaii,Daniel Inouye ,True,79.2,2
+1998,Hawaii,Crystal Young ,False,79.2,2
+1998,Idaho,Mike Crapo ,True,69.5,3
+1998,Idaho,Bill Mauk ,False,69.5,3
+1998,Illinois,Peter Fitzgerald ,True,50.3,2
+1998,Illinois,Carol Moseley Braun ,False,50.3,2
+1998,Indiana,Evan Bayh ,True,63.7,3
+1998,Indiana,Paul Helmke ,False,63.7,3
+1998,Iowa,Chuck Grassley ,True,68.4,3
+1998,Iowa,David Osterberg ,False,68.4,3
+1998,Kansas,Sam Brownback ,True,65.3,3
+1998,Kansas,Paul Feleciano Jr. ,False,65.3,3
+1998,Kentucky,Jim Bunning ,True,49.7,3
+1998,Kentucky,Scotty Baesler ,False,49.7,3
+1998,Louisiana,John Breaux ,True,64.0,3
+1998,Louisiana,Jim Donelon ,False,64.0,3
+1998,Maryland,Barbara Mikulski ,True,70.5,1
+1998,Maryland,Ross Pierpont ,False,70.5,1
+1998,Missouri,Kit Bond ,True,52.7,3
+1998,Missouri,Jay Nixon ,False,52.7,3
+1998,Nevada,Harry Reid ,True,47.9,3
+1998,Nevada,John Ensign ,False,47.9,3
+1998,New Hampshire,Judd Gregg ,True,67.8,3
+1998,New Hampshire,George Condodemetraky ,False,67.8,3
+1998,New York,Chuck Schumer ,True,54.6,3
+1998,New York,Al D'Amato ,False,54.6,3
+1998,North Carolina,John Edwards ,True,51.2,3
+1998,North Carolina,Lauch Faircloth ,False,51.2,3
+1998,North Dakota,Byron Dorgan ,True,63.1,2
+1998,North Dakota,Donna Nalewaja ,False,63.1,2
+1998,Ohio,George Voinovich ,True,56.5,3
+1998,Ohio,Mary Boyle ,False,56.5,3
+1998,Oklahoma,Don Nickles ,True,66.4,3
+1998,Oklahoma,Don Carroll ,False,66.4,3
+1998,Oregon,Ron Wyden ,True,61.0,3
+1998,Oregon,John Lim ,False,61.0,3
+1998,Pennsylvania,Arlen Specter ,True,61.3,3
+1998,Pennsylvania,Bill Lloyd ,False,61.3,3
+1998,South Carolina,Ernest Hollings ,True,52.7,3
+1998,South Carolina,Bob Inglis ,False,52.7,3
+1998,South Dakota,Tom Daschle ,True,62.1,3
+1998,South Dakota,Ron Schmidt ,False,62.1,3
+1998,Utah,Bob Bennett ,True,64.0,3
+1998,Utah,Scott Leckman ,False,64.0,3
+1998,Vermont,Patrick Leahy ,True,72.2,3
+1998,Vermont,Fred Tuttle ,False,72.2,3
+1998,Washington,Patty Murray ,True,58.4,0
+1998,Washington,Linda Smith ,False,58.4,0
+1998,Wisconsin,Russ Feingold ,True,50.6,3
+1998,Wisconsin,Mark Neumann ,False,50.6,3
+2000,Arizona,Jon Kyl ,True,79.3,3
+2000,Arizona,William Toel ,False,79.3,3
+2000,California,Dianne Feinstein ,True,55.8,1
+2000,California,Tom Campbell ,False,55.8,1
+2000,Connecticut,Joe Lieberman ,True,63.2,3
+2000,Connecticut,Philip Giordano ,False,63.2,3
+2000,Delaware,Tom Carper ,True,55.5,3
+2000,Delaware,William Roth ,False,55.5,3
+2000,Florida,Bill Nelson ,True,51.0,3
+2000,Florida,Bill McCollum ,False,51.0,3
+2000,Hawaii,Daniel Akaka ,True,72.7,3
+2000,Hawaii,John Carroll ,False,72.7,3
+2000,Indiana,Richard Lugar ,True,66.5,3
+2000,Indiana,David Johnson ,False,66.5,3
+2000,Maine,Olympia Snowe ,True,68.9,1
+2000,Maine,Mark Lawrence ,False,68.9,1
+2000,Maryland,Paul Sarbanes ,True,63.2,3
+2000,Maryland,Paul Rappaport ,False,63.2,3
+2000,Massachusetts,Ted Kennedy ,True,72.9,3
+2000,Massachusetts,Jack E. Robinson III ,False,72.9,3
+2000,Michigan,Debbie Stabenow ,True,49.4,1
+2000,Michigan,Spencer Abraham ,False,49.4,1
+2000,Minnesota,Mark Dayton ,True,48.8,3
+2000,Minnesota,Rod Grams ,False,48.8,3
+2000,Mississippi,Trent Lott ,True,65.9,3
+2000,Mississippi,Troy Brown ,False,65.9,3
+2000,Missouri,Mel Carnahan ,True,50.4,3
+2000,Missouri,John Ashcroft ,False,50.4,3
+2000,Montana,Conrad Burns ,True,50.6,3
+2000,Montana,Brian Schweitzer ,False,50.6,3
+2000,Nebraska,Ben Nelson ,True,51.0,3
+2000,Nebraska,Don Stenberg ,False,51.0,3
+2000,Nevada,John Ensign ,True,55.1,3
+2000,Nevada,Edward M. Bernstein ,False,55.1,3
+2000,New Jersey,Jon Corzine ,True,50.1,3
+2000,New Jersey,Bob Franks ,False,50.1,3
+2000,New Mexico,Jeff Bingaman ,True,61.7,3
+2000,New Mexico,William T. Redmond ,False,61.7,3
+2000,New York,Hillary Clinton ,True,55.0,1
+2000,New York,Rick Lazio ,False,55.0,1
+2000,North Dakota,Kent Conrad ,True,61.4,3
+2000,North Dakota,Duane Sand ,False,61.4,3
+2000,Ohio,Mike DeWine ,True,59.9,3
+2000,Ohio,Ted Celeste ,False,59.9,3
+2000,Pennsylvania,Rick Santorum ,True,52.4,3
+2000,Pennsylvania,Ron Klink ,False,52.4,3
+2000,Rhode Island,Lincoln Chafee ,True,56.8,3
+2000,Rhode Island,Robert Weygand ,False,56.8,3
+2000,Tennessee,Bill Frist ,True,65.1,3
+2000,Tennessee,Jeff Clark ,False,65.1,3
+2000,Texas,Kay Bailey Hutchison ,True,65.0,1
+2000,Texas,Gene Kelly ,False,65.0,1
+2000,Utah,Orrin Hatch ,True,65.6,3
+2000,Utah,Scott Howell ,False,65.6,3
+2000,Vermont,Jim Jeffords ,True,65.6,3
+2000,Vermont,Ed Flanagan ,False,65.6,3
+2000,Virginia,George Allen ,True,52.3,3
+2000,Virginia,Chuck Robb ,False,52.3,3
+2000,Washington,Maria Cantwell ,True,48.7,1
+2000,Washington,Slade Gorton ,False,48.7,1
+2000,West Virginia,Robert Byrd ,True,77.7,3
+2000,West Virginia,David T. Gallaher ,False,77.7,3
+2000,Wisconsin,Herb Kohl ,True,61.5,3
+2000,Wisconsin,John Gillespie ,False,61.5,3
+2000,Wyoming,Craig L. Thomas ,True,73.7,3
+2000,Wyoming,Mel Logan ,False,73.7,3
+2002,Alabama,Jeff Sessions ,True,58.6,2
+2002,Alabama,Susan Parker ,False,58.6,2
+2002,Alaska,Ted Stevens ,True,78.0,3
+2002,Alaska,Frank J. Vondersaar ,False,78.0,3
+2002,Arkansas,Mark Pryor ,True,53.9,3
+2002,Arkansas,Tim Hutchinson ,False,53.9,3
+2002,Colorado,Wayne Allard ,True,50.7,3
+2002,Colorado,Tom Strickland ,False,50.7,3
+2002,Delaware,Joe Biden ,True,58.2,3
+2002,Delaware,Raymond J. Clatworthy ,False,58.2,3
+2002,Georgia,Saxby Chambliss ,True,52.7,3
+2002,Georgia,Max Cleland ,False,52.7,3
+2002,Idaho,Larry Craig ,True,65.0,3
+2002,Idaho,Alan Blinken ,False,65.0,3
+2002,Illinois,Dick Durbin ,True,60.3,3
+2002,Illinois,Jim Durkin ,False,60.3,3
+2002,Iowa,Tom Harkin ,True,54.2,3
+2002,Iowa,Greg Ganske ,False,54.2,3
+2002,Kansas,Pat Roberts ,True,82.5,3
+2002,Kansas,Steven A. Rosile ,False,82.5,3
+2002,Kentucky,Mitch McConnell ,True,64.7,3
+2002,Kentucky,Lois Combs Weinberg ,False,64.7,3
+2002,Louisiana,Mary Landrieu ,True,51.7,0
+2002,Louisiana,Suzanne Haik Terrell ,False,51.7,0
+2002,Maine,Susan Collins ,True,58.4,0
+2002,Maine,Chellie Pingree ,False,58.4,0
+2002,Massachusetts,John Kerry ,True,72.3,3
+2002,Massachusetts,Michael E. Cloud ,False,72.3,3
+2002,Michigan,Carl Levin ,True,60.6,3
+2002,Michigan,Rocky Raczkowski ,False,60.6,3
+2002,Minnesota,Norm Coleman ,True,49.5,3
+2002,Minnesota,Walter Mondale ,False,49.5,3
+2002,Mississippi,Thad Cochran ,True,85.6,3
+2002,Mississippi,Shawn O'Hara ,False,85.6,3
+2002,Montana,Max Baucus ,True,62.7,3
+2002,Montana,Mike Taylor ,False,62.7,3
+2002,Nebraska,Chuck Hagel ,True,82.8,3
+2002,Nebraska,Charlie A. Matulka ,False,82.8,3
+2002,New Hampshire,John E. Sununu ,True,50.8,2
+2002,New Hampshire,Jeanne Shaheen ,False,50.8,2
+2002,New Jersey,Frank Lautenberg ,True,53.9,3
+2002,New Jersey,Doug Forrester ,False,53.9,3
+2002,New Mexico,Pete Domenici ,True,65.0,2
+2002,New Mexico,Gloria Tristani ,False,65.0,2
+2002,North Carolina,Elizabeth Dole ,True,53.6,1
+2002,North Carolina,Erskine Bowles ,False,53.6,1
+2002,Oklahoma,Jim Inhofe ,True,57.3,3
+2002,Oklahoma,David Walters ,False,57.3,3
+2002,Oregon,Gordon H. Smith ,True,56.2,3
+2002,Oregon,Bill Bradbury ,False,56.2,3
+2002,Rhode Island,Jack Reed ,True,78.4,3
+2002,Rhode Island,Robert Tingle ,False,78.4,3
+2002,South Carolina,Lindsey Graham ,True,54.4,3
+2002,South Carolina,Alex Sanders ,False,54.4,3
+2002,South Dakota,Tim Johnson ,True,49.6,3
+2002,South Dakota,John Thune ,False,49.6,3
+2002,Tennessee,Lamar Alexander ,True,54.0,3
+2002,Tennessee,Bob Clement ,False,54.0,3
+2002,Texas,John Cornyn ,True,55.3,3
+2002,Texas,Ron Kirk ,False,55.3,3
+2002,Virginia,John Warner ,True,82.6,2
+2002,Virginia,Nancy Spannaus ,False,82.6,2
+2002,West Virginia,Jay Rockefeller ,True,63.1,3
+2002,West Virginia,Jay Wolfe ,False,63.1,3
+2002,Wyoming,Mike Enzi ,True,73.0,2
+2002,Wyoming,Joyce Jansa Corcoran ,False,73.0,2
+2006,Arizona,Jon Kyl ,True,53.3,3
+2006,Arizona,Jim Pederson ,False,53.3,3
+2006,California,Dianne Feinstein ,True,59.4,1
+2006,California,Dick Mountjoy ,False,59.4,1
+2006,Connecticut,Joe Lieberman ,True,49.7,3
+2006,Connecticut,Ned Lamont ,False,49.7,3
+2006,Delaware,Tom Carper ,True,67.1,2
+2006,Delaware,Jan Ting ,False,67.1,2
+2006,Florida,Bill Nelson ,True,60.3,2
+2006,Florida,Katherine Harris ,False,60.3,2
+2006,Hawaii,Daniel Akaka ,True,61.4,2
+2006,Hawaii,Cynthia Thielen ,False,61.4,2
+2006,Indiana,Richard Lugar ,True,87.3,3
+2006,Indiana,Steve Osborn ,False,87.3,3
+2006,Maine,Olympia Snowe ,True,74.4,0
+2006,Maine,Jean Hay Bright ,False,74.4,0
+2006,Maryland,Ben Cardin ,True,54.2,3
+2006,Maryland,Michael Steele ,False,54.2,3
+2006,Massachusetts,Ted Kennedy ,True,69.5,3
+2006,Massachusetts,Kenneth Chase ,False,69.5,3
+2006,Michigan,Debbie Stabenow ,True,56.9,1
+2006,Michigan,Mike Bouchard ,False,56.9,1
+2006,Minnesota,Amy Klobuchar ,True,58.1,1
+2006,Minnesota,Mark Kennedy ,False,58.1,1
+2006,Mississippi,Trent Lott ,True,63.6,3
+2006,Mississippi,Erik Fleming ,False,63.6,3
+2006,Missouri,Claire McCaskill ,True,49.6,1
+2006,Missouri,Jim Talent ,False,49.6,1
+2006,Montana,Jon Tester ,True,49.2,3
+2006,Montana,Conrad Burns ,False,49.2,3
+2006,Nebraska,Ben Nelson ,True,63.9,3
+2006,Nebraska,Pete Ricketts ,False,63.9,3
+2006,Nevada,John Ensign ,True,55.4,3
+2006,Nevada,Jack Carter ,False,55.4,3
+2006,New Jersey,Bob Menendez ,True,53.4,3
+2006,New Jersey,Thomas Kean Jr. ,False,53.4,3
+2006,New Mexico,Jeff Bingaman ,True,70.6,3
+2006,New Mexico,Allen McCulloch ,False,70.6,3
+2006,New York,Hillary Clinton ,True,67.0,1
+2006,New York,John Spencer ,False,67.0,1
+2006,North Dakota,Kent Conrad ,True,68.8,3
+2006,North Dakota,Dwight Grotberg ,False,68.8,3
+2006,Ohio,Sherrod Brown ,True,56.2,3
+2006,Ohio,Mike DeWine ,False,56.2,3
+2006,Pennsylvania,Bob Casey Jr. ,True,58.7,3
+2006,Pennsylvania,Rick Santorum ,False,58.7,3
+2006,Rhode Island,Sheldon Whitehouse ,True,53.5,3
+2006,Rhode Island,Lincoln Chafee ,False,53.5,3
+2006,Tennessee,Bob Corker ,True,50.7,3
+2006,Tennessee,Harold Ford Jr. ,False,50.7,3
+2006,Texas,Kay Bailey Hutchison ,True,61.7,0
+2006,Texas,Barbara Ann Radnofsky ,False,61.7,0
+2006,Utah,Orrin Hatch ,True,62.6,3
+2006,Utah,Pete Ashdown ,False,62.6,3
+2006,Vermont,Bernie Sanders ,True,65.4,3
+2006,Vermont,Richard Tarrant ,False,65.4,3
+2006,Virginia,Jim Webb ,True,49.6,3
+2006,Virginia,George Allen ,False,49.6,3
+2006,Washington,Maria Cantwell ,True,56.85,1
+2006,Washington,Mike McGavick ,False,56.85,1
+2006,West Virginia,Robert Byrd ,True,64.4,3
+2006,West Virginia,John Raese ,False,64.4,3
+2006,Wisconsin,Herb Kohl ,True,67.31,3
+2006,Wisconsin,Robert Lorge ,False,67.31,3
+2006,Wyoming,Craig L. Thomas ,True,69.99,3
+2006,Wyoming,Dale Groutage ,False,69.99,3
+2008,Alabama,Jeff Sessions ,True,63.4,2
+2008,Alabama,Vivian Davis Figures ,False,63.4,2
+2008,Alaska,Mark Begich ,True,47.8,3
+2008,Alaska,Ted Stevens ,False,47.8,3
+2008,Arkansas,Mark Pryor ,True,79.5,2
+2008,Arkansas,Rebekah Kennedy ,False,79.5,2
+2008,Colorado,Mark Udall ,True,52.8,3
+2008,Colorado,Bob Schaffer ,False,52.8,3
+2008,Delaware,Joe Biden ,True,64.7,2
+2008,Delaware,Christine O'Donnell ,False,64.7,2
+2008,Georgia,Saxby Chambliss ,True,49.8,3
+2008,Georgia,Jim Martin ,False,49.8,3
+2008,Idaho,Jim Risch ,True,57.7,3
+2008,Idaho,Larry LaRocco ,False,57.7,3
+2008,Illinois,Dick Durbin ,True,67.8,3
+2008,Illinois,Steve Sauerberg ,False,67.8,3
+2008,Iowa,Tom Harkin ,True,62.7,3
+2008,Iowa,Christopher Reed ,False,62.7,3
+2008,Kansas,Pat Roberts ,True,60.0,3
+2008,Kansas,Jim Slattery ,False,60.0,3
+2008,Kentucky,Mitch McConnell ,True,53.0,3
+2008,Kentucky,Bruce Lunsford ,False,53.0,3
+2008,Louisiana,Mary Landrieu ,True,52.1,1
+2008,Louisiana,John Kennedy ,False,52.1,1
+2008,Maine,Susan Collins ,True,61.3,1
+2008,Maine,Tom Allen ,False,61.3,1
+2008,Massachusetts,John Kerry ,True,65.8,3
+2008,Massachusetts,Jeff Beatty ,False,65.8,3
+2008,Michigan,Carl Levin ,True,62.7,3
+2008,Michigan,Jack Hoogendyk ,False,62.7,3
+2008,Minnesota,Al Franken ,True,41.99,3
+2008,Minnesota,Norm Coleman ,False,41.99,3
+2008,Mississippi,Thad Cochran ,True,61.4,3
+2008,Mississippi,Erik Fleming ,False,61.4,3
+2008,Montana,Max Baucus ,True,72.9,3
+2008,Montana,Bob Kelleher ,False,72.9,3
+2008,Nebraska,Mike Johanns ,True,57.5,3
+2008,Nebraska,Scott Kleeb ,False,57.5,3
+2008,New Hampshire,Jeanne Shaheen ,True,51.7,1
+2008,New Hampshire,John E. Sununu ,False,51.7,1
+2008,New Jersey,Frank Lautenberg ,True,56.0,3
+2008,New Jersey,Dick Zimmer ,False,56.0,3
+2008,New Mexico,Tom Udall ,True,61.3,3
+2008,New Mexico,Steve Pearce ,False,61.3,3
+2008,North Carolina,Kay Hagan ,True,52.7,0
+2008,North Carolina,Elizabeth Dole ,False,52.7,0
+2008,Oklahoma,Jim Inhofe ,True,56.7,3
+2008,Oklahoma,Andrew Rice ,False,56.7,3
+2008,Oregon,Jeff Merkley ,True,48.9,3
+2008,Oregon,Gordon H. Smith ,False,48.9,3
+2008,Rhode Island,Jack Reed ,True,73.4,3
+2008,Rhode Island,Robert Tingle ,False,73.4,3
+2008,South Carolina,Lindsey Graham ,True,57.5,3
+2008,South Carolina,Bob Conley ,False,57.5,3
+2008,South Dakota,Tim Johnson ,True,62.5,3
+2008,South Dakota,Joel Dykstra ,False,62.5,3
+2008,Tennessee,Lamar Alexander ,True,65.1,3
+2008,Tennessee,Bob Tuke ,False,65.1,3
+2008,Texas,John Cornyn ,True,54.8,3
+2008,Texas,Rick Noriega ,False,54.8,3
+2008,Virginia,Mark Warner ,True,65.0,3
+2008,Virginia,Jim Gilmore ,False,65.0,3
+2008,West Virginia,Jay Rockefeller ,True,63.7,3
+2008,West Virginia,Jay Wolfe ,False,63.7,3
+2008,Wyoming,Mike Enzi ,True,75.6,3
+2008,Wyoming,Chris Rothfuss ,False,75.6,3
+2010,Alabama,Richard Shelby ,True,65.3,3
+2010,Alabama,William G. Barnes ,False,65.3,3
+2010,Alaska,Lisa Murkowski ,True,39.5,1
+2010,Alaska,Joe Miller ,False,39.5,1
+2010,Arizona,John McCain ,True,59.2,3
+2010,Arizona,Rodney Glassman ,False,59.2,3
+2010,Arkansas,John Boozman ,True,58.0,2
+2010,Arkansas,Blanche Lincoln ,False,58.0,2
+2010,California,Barbara Boxer ,True,52.1,0
+2010,California,Carly Fiorina ,False,52.1,0
+2010,Colorado,Michael Bennet ,True,48.1,3
+2010,Colorado,Ken Buck ,False,48.1,3
+2010,Connecticut,Richard Blumenthal ,True,55.1,2
+2010,Connecticut,Linda McMahon ,False,55.1,2
+2010,Florida,Marco Rubio ,True,48.9,3
+2010,Florida,Charlie Crist ,False,48.9,3
+2010,Georgia,Johnny Isakson ,True,58.1,3
+2010,Georgia,Michael Thurmond ,False,58.1,3
+2010,Hawaii,Daniel Inouye ,True,74.8,3
+2010,Hawaii,Campbell Cavasso ,False,74.8,3
+2010,Idaho,Mike Crapo ,True,71.1,3
+2010,Idaho,Tom Sullivan ,False,71.1,3
+2010,Illinois,Mark Kirk ,True,48.2,3
+2010,Illinois,Alexi Giannoulias ,False,48.2,3
+2010,Indiana,Dan Coats ,True,54.6,3
+2010,Indiana,Brad Ellsworth ,False,54.6,3
+2010,Iowa,Chuck Grassley ,True,64.5,2
+2010,Iowa,Roxanne Conlin ,False,64.5,2
+2010,Kansas,Jerry Moran ,True,70.3,2
+2010,Kansas,Lisa Johnston ,False,70.3,2
+2010,Kentucky,Rand Paul ,True,55.8,3
+2010,Kentucky,Jack Conway ,False,55.8,3
+2010,Louisiana,David Vitter ,True,56.6,3
+2010,Louisiana,Charles Melancon ,False,56.6,3
+2010,Maryland,Barbara Mikulski ,True,61.8,1
+2010,Maryland,Eric Wargotz ,False,61.8,1
+2010,Missouri,Roy Blunt ,True,54.3,2
+2010,Missouri,Robin Carnahan ,False,54.3,2
+2010,Nevada,Harry Reid ,True,50.2,2
+2010,Nevada,Sharron Angle ,False,50.2,2
+2010,New Hampshire,Kelly Ayotte ,True,60.2,1
+2010,New Hampshire,Paul Hodes ,False,60.2,1
+2010,New York,Chuck Schumer ,True,66.3,3
+2010,New York,Jay Townsend ,False,66.3,3
+2010,North Carolina,Richard Burr ,True,55.0,2
+2010,North Carolina,Elaine Marshall ,False,55.0,2
+2010,North Dakota,John Hoeven ,True,76.2,2
+2010,North Dakota,Tracy Potter ,False,76.2,2
+2010,Ohio,Rob Portman ,True,57.3,3
+2010,Ohio,Lee Fisher ,False,57.3,3
+2010,Oklahoma,Tom Coburn ,True,70.5,3
+2010,Oklahoma,Jim Rogers ,False,70.5,3
+2010,Oregon,Ron Wyden ,True,57.2,3
+2010,Oregon,Jim Huffman ,False,57.2,3
+2010,Pennsylvania,Pat Toomey ,True,51.01,3
+2010,Pennsylvania,Joe Sestak ,False,51.01,3
+2010,South Carolina,Jim DeMint ,True,62.4,3
+2010,South Carolina,Alvin Greene ,False,62.4,3
+2010,South Dakota,John Thune ,True,1.0,3
+2010,Utah,Mike Lee ,True,61.6,3
+2010,Utah,Sam Granato ,False,61.6,3
+2010,Vermont,Patrick Leahy ,True,64.4,3
+2010,Vermont,Len Britton ,False,64.4,3
+2010,Washington,Patty Murray ,True,52.4,1
+2010,Washington,Dino Rossi ,False,52.4,1
+2010,Wisconsin,Ron Johnson ,True,51.9,3
+2010,Wisconsin,Russ Feingold ,False,51.9,3
+2012,Arizona,Jeff Flake ,True,49.2,3
+2012,Arizona,Richard Carmona ,False,49.2,3
+2012,California,Dianne Feinstein ,True,62.5,0
+2012,California,Elizabeth Emken ,False,62.5,0
+2012,Connecticut,Chris Murphy ,True,54.8,2
+2012,Connecticut,Linda McMahon ,False,54.8,2
+2012,Delaware,Tom Carper ,True,66.4,3
+2012,Delaware,Kevin Wade ,False,66.4,3
+2012,Florida,Bill Nelson ,True,55.2,2
+2012,Florida,Connie Mack IV ,False,55.2,2
+2012,Hawaii,Mazie Hirono ,True,62.6,0
+2012,Hawaii,Linda Lingle ,False,62.6,0
+2012,Indiana,Joe Donnelly ,True,50.0,3
+2012,Indiana,Richard Mourdock ,False,50.0,3
+2012,Maine,Angus King ,True,52.9,3
+2012,Maine,"Charles E. Summers, Jr. ",False,52.9,3
+2012,Maryland,Ben Cardin ,True,56.0,3
+2012,Maryland,Dan Bongino ,False,56.0,3
+2012,Massachusetts,Elizabeth Warren ,True,53.7,1
+2012,Massachusetts,Scott Brown ,False,53.7,1
+2012,Michigan,Debbie Stabenow ,True,58.8,1
+2012,Michigan,Pete Hoekstra ,False,58.8,1
+2012,Minnesota,Amy Klobuchar ,True,65.2,1
+2012,Minnesota,Kurt Bills ,False,65.2,1
+2012,Mississippi,Roger Wicker ,True,57.2,3
+2012,Mississippi,"Albert N. Gore, Jr. ",False,57.2,3
+2012,Missouri,Claire McCaskill ,True,54.8,1
+2012,Missouri,Todd Akin ,False,54.8,1
+2012,Montana,Jon Tester ,True,48.6,3
+2012,Montana,Denny Rehberg ,False,48.6,3
+2012,Nebraska,Deb Fischer ,True,57.8,1
+2012,Nebraska,Bob Kerrey ,False,57.8,1
+2012,Nevada,Dean Heller ,True,45.9,2
+2012,Nevada,Shelley Berkley ,False,45.9,2
+2012,New Jersey,Bob Menendez ,True,58.9,3
+2012,New Jersey,Joe Kyrillos ,False,58.9,3
+2012,New Mexico,Martin Heinrich ,True,51.0,2
+2012,New Mexico,Heather Wilson ,False,51.0,2
+2012,New York,Kirsten Gillibrand ,True,71.6,0
+2012,New York,Wendy E. Long ,False,71.6,0
+2012,North Dakota,Heidi Heitkamp ,True,50.24,1
+2012,North Dakota,Rick Berg ,False,50.24,1
+2012,Ohio,Sherrod Brown ,True,50.7,3
+2012,Ohio,Josh Mandel ,False,50.7,3
+2012,Pennsylvania,Bob Casey Jr. ,True,53.7,3
+2012,Pennsylvania,Tom Smith ,False,53.7,3
+2012,Rhode Island,Sheldon Whitehouse ,True,64.8,3
+2012,Rhode Island,Barry Hinckley ,False,64.8,3
+2012,Tennessee,Bob Corker ,True,64.9,3
+2012,Tennessee,Mark Clayton ,False,64.9,3
+2012,Texas,Ted Cruz ,True,56.5,3
+2012,Texas,Paul Sadler ,False,56.5,3
+2012,Utah,Orrin Hatch ,True,65.3,3
+2012,Utah,Scott Howell ,False,65.3,3
+2012,Vermont,Bernie Sanders ,True,71.0,3
+2012,Vermont,John MacGovern ,False,71.0,3
+2012,Virginia,Tim Kaine ,True,52.9,3
+2012,Virginia,George Allen ,False,52.9,3
+2012,Washington,Maria Cantwell ,True,60.5,1
+2012,Washington,Michael Baumgartner ,False,60.5,1
+2012,West Virginia,Joe Manchin ,True,60.6,3
+2012,West Virginia,John Raese ,False,60.6,3
+2012,Wisconsin,Tammy Baldwin ,True,51.4,0
+2012,Wisconsin,Tommy Thompson ,False,51.4,0
+2012,Wyoming,John Barrasso ,True,75.7,3
+2012,Wyoming,Tim Chesnut ,False,75.7,3
+2014,Alabama,Jeff Sessions,True,97.25,3
+2014,Alabama,,False,97.25,3
+2014,Alaska,Dan Sullivan,True,48.0,3
+2014,Alaska,Mark Begich ,False,48.0,3
+2014,Arkansas,Tom Cotton ,True,56.5,3
+2014,Arkansas,Mark Pryor ,False,56.5,3
+2014,Colorado,Cory Gardner ,True,48.2,3
+2014,Colorado,Mark Udall ,False,48.2,3
+2014,Delaware,Chris Coons ,True,55.8,3
+2014,Delaware,Kevin Wade ,False,55.8,3
+2014,Georgia,David Perdue ,True,52.9,2
+2014,Georgia,Michelle Nunn ,False,52.9,2
+2014,Idaho,Jim Risch ,True,65.3,3
+2014,Idaho,Nels Mitchell ,False,65.3,3
+2014,Illinois,Dick Durbin ,True,53.5,3
+2014,Illinois,Jim Oberweis ,False,53.5,3
+2014,Iowa,Joni Ernst ,True,52.1,1
+2014,Iowa,Bruce Braley ,False,52.1,1
+2014,Kansas,Pat Roberts ,True,53.1,3
+2014,Kansas,Greg Orman ,False,53.1,3
+2014,Kentucky,Mitch McConnell ,True,56.1,2
+2014,Kentucky,Alison Lundergan Grimes ,False,56.1,2
+2014,Louisiana,Bill Cassidy ,True,55.9,2
+2014,Louisiana,Mary Landrieu ,False,55.9,2
+2014,Maine,Susan Collins ,True,68.5,0
+2014,Maine,Shenna Bellows ,False,68.5,0
+2014,Massachusetts,Ed Markey ,True,62.0,3
+2014,Massachusetts,Brian Herr ,False,62.0,3
+2014,Michigan,Gary Peters ,True,54.6,2
+2014,Michigan,Terri Lynn Land ,False,54.6,2
+2014,Minnesota,Al Franken ,True,53.2,3
+2014,Minnesota,Mike McFadden ,False,53.2,3
+2014,Mississippi,Thad Cochran ,True,59.9,3
+2014,Mississippi,Travis Childers ,False,59.9,3
+2014,Montana,Steve Daines ,True,57.8,2
+2014,Montana,Amanda Curtis ,False,57.8,2
+2014,Nebraska,Ben Sasse ,True,64.4,3
+2014,Nebraska,David Domina ,False,64.4,3
+2014,New Hampshire,Jeanne Shaheen ,True,51.5,1
+2014,New Hampshire,Scott Brown ,False,51.5,1
+2014,New Jersey,Cory Booker ,True,55.8,3
+2014,New Jersey,Jeff Bell ,False,55.8,3
+2014,New Mexico,Tom Udall ,True,55.6,3
+2014,New Mexico,Allen Weh ,False,55.6,3
+2014,North Carolina,Thom Tillis ,True,48.8,2
+2014,North Carolina,Kay Hagan ,False,48.8,2
+2014,Oklahoma,Jim Inhofe ,True,68.0,3
+2014,Oklahoma,Matt Silverstein ,False,68.0,3
+2014,Oregon,Jeff Merkley ,True,55.7,2
+2014,Oregon,Monica Wehby ,False,55.7,2
+2014,Rhode Island,Jack Reed ,True,70.6,3
+2014,Rhode Island,Mark Zaccaria ,False,70.6,3
+2014,South Carolina,Lindsey Graham ,True,54.3,3
+2014,South Carolina,Brad Hutto ,False,54.3,3
+2014,South Dakota,Mike Rounds ,True,50.4,3
+2014,South Dakota,Rick Weiland ,False,50.4,3
+2014,Tennessee,Lamar Alexander ,True,61.9,3
+2014,Tennessee,Martin Pleasant ,False,61.9,3
+2014,Texas,John Cornyn ,True,61.6,3
+2014,Texas,Gordon Ball ,False,61.6,3
+2014,Virginia,Mark Warner ,True,49.1,3
+2014,Virginia,Ed Gillespie ,False,49.1,3
+2014,West Virginia,Shelley Moore Capito ,True,62.1,0
+2014,West Virginia,Natalie Tennant ,False,62.1,0
+2014,Wyoming,Mike Enzi ,True,71.2,3
+2014,Wyoming,Charlie Hardy ,False,71.2,3
